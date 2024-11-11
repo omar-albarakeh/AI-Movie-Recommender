@@ -51,3 +51,28 @@
     height: 100%;
     object-fit: cover;
 }
+.card-footer{
+    align-items: center;
+    justify-content: space-between;
+    padding: 3px;
+}
+
+.card-stars{
+    padding-left: 15px;
+    gap: 5px;
+}
+
+.star{
+    color: white;
+    width: 15px;
+    height: 15px;
+}
+.card-bookmark{
+    padding-right: 20px;
+}
+.card-bookmark>img{
+    width: 25px;
+    height: 25px;
+    
+    
+}
