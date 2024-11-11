@@ -8,9 +8,9 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-   background-image: url("../front-end/assets/login-bg.jpeg");
-   background-size: cover;
-   background-position:center ;
+    background-image: url("../assets/bg.avif");
+    background-size: cover;
+    background-position:center ;
 }
 .wrapper{
 width:420px;
@@ -43,7 +43,8 @@ padding:30px 40px;
     border-radius:40px;
     font-size:16px;
     color:#fff;
-    padding:10px 25px;
+    padding:15px 25px;
+    margin-bottom: 20px;
 }
 .input-box input::placeholder{
     color:#fff;
