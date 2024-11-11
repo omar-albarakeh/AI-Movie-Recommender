@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+.movies-container{
+    width: 100%;
+    height: 100vh;
+    padding: 35px 70px ;
+}
+
+.movies-header{
+    width: 100%;
+    height: 10%;
+    gap: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.movie-card{
+    width: 223px;
+    height: 348px;
+    flex-wrap: wrap;
+}
