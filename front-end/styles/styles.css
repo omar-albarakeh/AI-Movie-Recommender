@@ -7,7 +7,7 @@
 
 .movies-container{
     width: 100%;
-    height: 100vh;
+    height: 130vh;
     padding: 35px 70px ;
 }
 
@@ -15,12 +15,64 @@
     width: 100%;
     height: 10%;
     gap: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     text-align: center;
 }
-
-.movie-card{
-    width: 223px;
-    height: 348px;
+.movies-title{
+    font-size: 32px;
+}
+.movies-cards{
+    width: 100%;
+    height: 90%;
+    gap: 30px;
     flex-wrap: wrap;
+    overflow-x: scroll;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+.movie-card{
+    width: 225px;
+    height: 350px;
+    flex-shrink: 0;
+}
+.card-image{
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    }
+.card-footer{
+    width: 100%;
+    height: 30%;
+}
+.card-image>img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.card-footer{
+    align-items: center;
+    justify-content: space-between;
+    padding: 3px;
+}
+
+.card-stars{
+    padding-left: 15px;
+    gap: 5px;
+}
+
+.star{
+    color: white;
+    width: 15px;
+    height: 15px;
+}
+.card-bookmark{
+    padding-right: 20px;
+}
+.card-bookmark>img{
+    width: 25px;
+    height: 25px;
+    
+    
 }
