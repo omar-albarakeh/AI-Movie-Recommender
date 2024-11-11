@@ -1,0 +1,1010 @@
+[
+    {
+        "title": "Venom: The Last Dance",
+        "img": "https://media.pathe.fr/movie/alex/HO00007480/poster/md/58/movie&uuid=EA09B5FD-809D-4111-8D31-D0F173ED5D86",
+        "story": "Dans VENOM: THE LAST DANCE, ultime opus de la trilogie, Tom Hardy est de retour sous les traits de Venom, l’un des personnages le plus complexes de l’univers Marvel. Eddie et Venom sont en cavale. Chacun est traqué par ses semblables et alors que l’étau se resserre, le duo doit prendre une décision dévastatrice qui annonce la conclusion des aventures d’Eddie & Venom.",
+        "duration": "1h49",
+        "categories": "Action/Aventure",
+        "releaseDate": "30 oct. 2024",
+        "actors": "Chiwetel Ejiofor, Juno Temple, Tom Hardy, Kelly Marcel"
+    },
+    {
+        "title": "L'Amour ouf",
+        "img": "https://media.pathe.fr/movie/alex/HO00003500/poster/md/153/movie&uuid=57F7FFC4-CA75-458C-A4C6-DE0A4677E815",
+        "story": "Les années 80, dans le nord de la France. Jackie et Clotaire grandissent entre les bancs du lycée et les docks du port. Elle étudie, il traîne. Et puis leurs destins se croisent et c'est l'amour fou. La vie s'efforcera de les séparer mais rien n'y fait, ces deux-là sont comme les deux ventricules du même cœur...",
+        "duration": "2h40",
+        "categories": "Comédie dramatique/Romance",
+        "releaseDate": "16 oct. 2024",
+        "actors": "Mallory Wanecque, Adèle Exarchopoulos, François Civil, Gilles Lellouche"
+    },
+    {
+        "title": "Monsieur Aznavour",
+        "img": "https://media.pathe.fr/movie/alex/HO00006381/poster/md/118/movie&uuid=9CD278A5-823C-48CB-8C8E-FC5F6EF9837B",
+        "story": "Fils de réfugiés, petit, pauvre, à la voix voilée, on disait de lui qu’il n’avait rien pour réussir. À force de travail, de persévérance et d’une volonté hors norme, Charles Aznavour est devenu un monument de la chanson, et un symbole de la culture française. Avec près de 1200 titres interprétés dans le monde entier et dans toutes les langues, il a inspiré des générations entières. Découvrez le parcours exceptionnel et intemporel de MONSIEUR AZNAVOUR.",
+        "duration": "2h13",
+        "categories": "Biopic/Musical",
+        "releaseDate": "23 oct. 2024",
+        "actors": "Lionel Cecilio, Tahar Rahim, Bastien Bouillon, Grand Corps Malade, , Mehdi Idir"
+    },
+    {
+        "title": "JURE N°2",
+        "img": "https://media.pathe.fr/movie/alex/HO00008324/poster/md/27/movie&uuid=37655D4B-6E68-4D14-88CB-C94E58DEAD04",
+        "story": "Le film suit Justin Kemp, un père de famille ordinaire, qui se retrouve juré dans un procès pour meurtre très médiatisé. Alors qu'il est confronté à un dilemme moral déchirant, Justin réalise qu'il détient le pouvoir d'influencer le verdict du jury, ce qui pourrait soit condamner, soit libérer l'accusé.",
+        "duration": "1h54",
+        "categories": "Drame/Thriller",
+        "releaseDate": "30 oct. 2024",
+        "actors": "Nicholas Hoult, Toni Collette, J.K Simmons, Clint Eastwood"
+    },
+    {
+        "title": "Anora",
+        "img": "https://media.pathe.fr/movie/alex/HO00007688/poster/md/70/movie&uuid=8965A8F9-D75E-4DFD-A65A-94BBAEE3D9E9",
+        "story": "Anora, jeune strip-teaseuse de Brooklyn, se transforme en Cendrillon des temps modernes lorsqu’elle rencontre le fils d’un oligarque russe. Sans réfléchir, elle épouse avec enthousiasme son prince charmant ; mais lorsque la nouvelle parvient en Russie, le conte de fées est vite menacé : les parents du jeune homme partent pour New York avec la ferme intention de faire annuler le mariage... Festival de Cannes 2024 - Palme d'Or",
+        "duration": "2h18",
+        "categories": "Drame",
+        "releaseDate": "30 oct. 2024",
+        "actors": "Ivy Wolk, Lindsey Normington, Karren Karagulian, Sean Baker"
+    },
+    {
+        "title": "The Substance",
+        "img": "https://media.pathe.fr/movie/alex/HO00007842/poster/md/35/movie&uuid=D64EEBB3-3E37-41AA-BC26-E21FE566125D",
+        "story": "Avez-vous déjà rêvé d’une meilleure version de vous-même ? Vous devriez essayer ce nouveau produit : THE SUBSTANCE Il a changé ma vie. Il permet de générer une autre version de vous-même, plus jeune, plus belle, plus parfaite. Respectez les instructions :VOUS ACTIVEZ une seule fois VOUS STABILISEZ chaque jour VOUS PERMUTEZ tous les sept jours sans exception. Il suffit de partager le temps. C’est si simple, qu’est-ce qui pourrait mal tourner ?",
+        "duration": "2h20",
+        "categories": "Drame/Epouvante-horreur",
+        "releaseDate": "06 nov. 2024",
+        "actors": "Dennis Quaid, Demi Moore, Margaret Qualley, Coralie Fargeat"
+    },
+    {
+        "title": "Le Robot Sauvage",
+        "img": "https://media.pathe.fr/movie/alex/HO00007217/poster/md/97/movie&uuid=A8AD4AE6-9E11-412A-B97C-7F6C7A1BCEA9",
+        "story": "DreamWorks Animation présente en exclusivité l’adaptation du roman illustré de Peter Brown, véritable phénomène littéraire, n°1 de la liste des meilleures ventes du New York Times : LE ROBOT SAUVAGE (The Wild Robot). LE ROBOT SAUVAGE suit l’incroyable épopée d'un robot – l'unité ROZZUM 7134 alias “Roz” – qui après avoir fait naufrage sur une île déserte doit apprendre à s'adapter à un environnement hostile en nouant petit à petit des relations avec les animaux de l'île. Il finit par adopter le petit d’une oie, un oison, qui se retrouve orphelin. Pour les rôles principaux on retrouve les voix de Lupita Nyong'o® (US, BLACK PANTHER 1 et 2), dans le rôle de Roz le robot, Pedro Pascal (The Last of Us, The Mandalorian) dans celui de Fink le renard, Catherine O'Hara (Schitt's Creek, ARGYLLE) prête son talent à Pinktail l'opossum, Bill Nighy® (IL ÉTAIT TEMPS, LOVE ACTUALLY) est Longneck l'oie, Kit Connor (HEARTSTOPPER, ROCKETMAN) interprète Brightbill le petit oison orphelin et Stephanie Hsu® (EVERYTHING EVERYWHERE ALL AT ONCE, THE FALL GUY) est Vontra, un autre robot qui va perturber quelque peu la vie de Roz sur l'île. Dans les rôles secondaires, se distingue une distribution non moins prestigieuse avec les voix de Mark Hamill, légende de la culture pop (la franchise STAR WARS, LE GARÇON ET LE HERON), Matt Berry (What We Do in the Shadows et la franchise BOB L’ÉPONGE) et Ving Rhames (MISSION : IMPOSSIBLE, PULP FICTION). Cette histoire forte est centrée sur la découverte de soi, une observation passionnante des ponts qui relient nature et technologie tout en explorant avec sensibilité ce que cela signifie d’être au monde et connecté au vivant sous toutes ses formes. LE ROBOT SAUVAGE est écrit et réalisé par Chris Sanders®, à qui on doit notamment la franchise DRAGON pour DreamWorks Animation, LES CROODS et LILO & STITCH pour Disney. Le film est produit par Jeff Hermann (BABY BOSS 2 pour DreamWorks Animation et coproducteur sur la franchise KUNG FU PANDA). Le Robot Sauvage de Peter Brown, est un roman illustré pour les 7-8 ans publié pour la première fois en 2016. Le livre a depuis inspiré une trilogie qui comprend désormais The Wild Robot Escapes et The Wild Robot Protects. Peter Brown est un écrivain à succès qui collectionne les récompenses. Il a notamment reçu : le Caldecott Honor, le Horn Book Award, deux E.B. White Awards, deux E.B. White Honors, un Children's Choice Award en qualité d’Illustrateur de l'année, deux Irma Black Honors, un Golden Kite Award et un New York Times Best Illustrated Book Award.",
+        "duration": "1h42",
+        "categories": "Animation/Aventure",
+        "releaseDate": "09 oct. 2024",
+        "actors": ""
+    },
+    {
+        "title": "À toute allure",
+        "img": "https://media.pathe.fr/movie/alex/HO00006269/poster/md/40/movie&uuid=9A06F9EF-B612-42C8-AD00-EC347A736622",
+        "story": "Elle est officier de sous-marin tactique. Il est steward. Ils se rencontrent lors d'une escale. Mais leur aventure naissante doit subitement s'interrompre. Et le voilà qui s'accroche ! Qui la suit ! Qui la colle ! Comme si on avait le temps d'être amoureuse à bord d'un bâtiment militaire ! Reste que l'océan Pacifique n'est pas assez grand pour le décourager. L'océan Arctique non plus d'ailleurs. Le monde est si petit quand on s'aime d'un si grand amour...",
+        "duration": "1h25",
+        "categories": "Comédie/Romance",
+        "releaseDate": "06 nov. 2024",
+        "actors": "Eye Haidara, José Garcia, Pio Marmaï, Lucas Bernard"
+    },
+    {
+        "title": "Louise Violet",
+        "img": "https://media.pathe.fr/movie/alex/HO00006938/poster/md/126/movie&uuid=C24572C5-7E1A-4435-8DAD-58D9EB698690",
+        "story": "1889. Envoyée dans un village de la campagne française, l’institutrice Louise Violet doit y imposer l’école de la République (gratuite, obligatoire et laïque). Une mission qui ne la rend populaire ni auprès des enfants… ni auprès des parents.",
+        "duration": "1h48",
+        "categories": "Drame/Historique",
+        "releaseDate": "06 nov. 2024",
+        "actors": "Grégory Gadebois, Alexandra Lamy, Éric Besnard"
+    },
+    {
+        "title": "Here - Les plus belles années de notre vie",
+        "img": "https://media.pathe.fr/movie/alex/HO00008278/poster/md/39/movie&uuid=F9887A57-0F1C-4EA9-BC34-78C0071B1DA8",
+        "story": "Toute l’équipe de FORREST GUMP revient au cinéma, et vous transporte dans un voyage unique à travers le temps. L’histoire de familles dont les peines, les joies et les moments de doutes se font écho à travers les générations.",
+        "duration": "1h44",
+        "categories": "Drame",
+        "releaseDate": "06 nov. 2024",
+        "actors": "Robin Wright, Tom Hanks, Paul Bettany, Robert Zemeckis"
+    },
+    {
+        "title": "Croquette le chat merveilleux",
+        "img": "https://media.pathe.fr/movie/alex/HO00007932/poster/md/38/movie&uuid=A53D7CC9-89C7-4861-8877-FDDB629CFDE5",
+        "story": "C’est bien connu, les chats ont plusieurs vies ! Croquette vient de gâcher celle de trop et il ferait tout pour retrouver Rose, sa maîtresse adorée. On lui accorde une dernière chance, cependant une règle a changé : Croquette peut revenir, mais à un détail près... Désormais transformé en cheval, chien, perroquet ou poisson, l’aventure ne fait que commencer !",
+        "duration": "1h27",
+        "categories": "Animation/Comédie/Famille",
+        "releaseDate": "16 oct. 2024",
+        "actors": "Simone Ashley, Mo Gilligan, Dylan Llewellyn, Mark Koetsier, , Christopher Jenkins"
+    },
+    {
+        "title": "Smile 2",
+        "img": "https://media.pathe.fr/movie/alex/HO00007869/poster/md/122/movie&uuid=698F6563-5DAF-4905-83D0-3E76FC7BD898",
+        "story": "À l’aube d’une nouvelle tournée mondiale, la star de la pop Skye Riley (Naomi Scott) se met à vivre des événements aussi terrifiants qu’inexplicables. Submergée par la pression de la célébrité et devant un quotidien qui bascule de plus en plus dans l’horreur, Skye est forcée de se confronter à son passé obscur pour tenter de reprendre le contrôle de sa vie avant qu’il ne soit trop tard.",
+        "duration": "2h12",
+        "categories": "Epouvante-horreur/Thriller",
+        "releaseDate": "16 oct. 2024",
+        "actors": "Dylan Gelula, Kyle Gallner, Lukas Gage, Parker Finn"
+    },
+    {
+        "title": "Transformers : le commencement",
+        "img": "https://media.pathe.fr/movie/alex/HO00002465/poster/md/286/movie&uuid=F4C01B4E-CB5C-40AE-AAF4-78FBF95A8395",
+        "story": "Cette grande aventure familiale se déroule entièrement sur la planète Cybertron. Accompagné de la pugnace Elita et du drôlissime Bumblebee, Optimus Prime va devoir faire face à son ancien ami Megatron.",
+        "duration": "1h45",
+        "categories": "Animation/Aventure/Famille",
+        "releaseDate": "23 oct. 2024",
+        "actors": ""
+    },
+    {
+        "title": "Le Lac des Cygnes",
+        "img": "https://media.pathe.fr/movie/alex/HO00007836/poster/md/195/movie&uuid=C6D81217-0113-4D0E-9579-34398D375461",
+        "story": "Lors des célébrations de son anniversaire, le jeune prince Siegfried doit choisir une épouse. Rêvant d'un amour idéal, il cherche à fuir la réalité. Son précepteur tente de le raisonner et le rappelle à ses devoirs. Lors d'une escapade onirique au bord d’un lac, le prince rencontre Odette, une princesse transformée en femme-cygne par le puissant sorcier Rothbart. Seul un véritable amour peut rompre le sortilège. Captivé par Odette, Siegfried promet de la sauver et l'invite à sa fête. Mais le sorcier lui tend un piège : il envoie sa fille Odile pour le séduire sous les traits d’Odette.",
+        "duration": "2h25",
+        "categories": "Opera",
+        "releaseDate": "08 nov. 2024",
+        "actors": ""
+    },
+    {
+        "title": "Flow, le chat qui n’avait plus peur de l’eau",
+        "img": "https://media.pathe.fr/movie/alex/HO00007735/poster/md/45/movie&uuid=444119EF-3FC4-49CE-ADAF-5B2A90971BB7",
+        "story": "Un chat se réveille dans un univers envahi par l’eau où toute vie humaine semble avoir disparu. Il trouve refuge sur un bateau avec un groupe d’autres animaux. Mais s’entendre avec eux s’avère un défi encore plus grand que de surmonter sa peur de l’eau ! Tous devront désormais apprendre à surmonter leurs différences et à s’adapter au nouveau monde qui s’impose à eux.",
+        "duration": "1h25",
+        "categories": "Animation/Aventure/Fantastique",
+        "releaseDate": "30 oct. 2024",
+        "actors": ""
+    },
+    {
+        "title": "Trois amies",
+        "img": "https://media.pathe.fr/movie/alex/HO00007746/poster/md/30/movie&uuid=8C6D56FE-0E73-4443-AAC5-151BC9757840",
+        "story": "Joan n'est plus amoureuse de Victor et souffre de se sentir malhonnête avec lui. Alice, sa meilleure amie, la rassure : elle-même n’éprouve aucune passion pour Eric et pourtant leur couple se porte à merveille ! Elle ignore qu’il a une liaison avec Rebecca, leur amie commune... Quand Joan décide finalement de quitter Victor et que celui-ci disparaît, la vie des trois amies et leurs histoires s’en trouvent bouleversées.",
+        "duration": "1h57",
+        "categories": "Drame",
+        "releaseDate": "06 nov. 2024",
+        "actors": "Camille Cottin, Vincent Macaigne, Sara Forestier, Emmanuel Mouret"
+    },
+    {
+        "title": "L'histoire de Souleymane",
+        "img": "https://media.pathe.fr/movie/alex/HO00007682/poster/md/48/movie&uuid=AFD49FCE-BBA7-4C88-93F0-294A24AA8C87",
+        "story": "Tandis qu’il pédale dans les rues de Paris pour livrer des repas, Souleymane répète son histoire. Dans deux jours, il doit passer son entretien de demande d’asile, le sésame pour obtenir des papiers. Mais Souleymane n’est pas prêt.",
+        "duration": "1h33",
+        "categories": "Drame",
+        "releaseDate": "09 oct. 2024",
+        "actors": "Abou Sangare, Alpha Oumar Sow, Emmanuel Yovanie, Boris Lojkine"
+    },
+    {
+        "title": "Ma mini-séance : Pat et Mat un dernier tour de vis",
+        "img": "https://media.pathe.fr/movie/alex/HO00008370/poster/md/13/movie&uuid=C0C12A7F-1786-460D-8E3F-8756483BBB48",
+        "story": "\"Ma Mini-séance\", le rendez-vous pensé pour le bien-être des tout-petits : films courts, son optimisé, lumière tamisée... Découvrez « Pat et Mat, un dernier tour de vis » Les deux inséparables bricoleurs ont toujours des idées à la pelle pour améliorer leur quotidien. Toujours très actifs et jamais à court d’idées, Pat & Mat prolongent leurs péripéties burlesques dans cette nouvelle sélection de courts métrages : Le Tube, Le Popcorn, Les Meubles, Le Lave-auto, La Porte...",
+        "duration": "40min",
+        "categories": "Animation/Famille",
+        "releaseDate": "30 oct. 2024",
+        "actors": ""
+    },
+    {
+        "title": "4 Zéros",
+        "img": "https://media.pathe.fr/movie/alex/HO00007584/poster/md/29/movie&uuid=5DEE7182-653B-48F6-9518-9F900FA4BD28",
+        "story": "Depuis 3 Zéros, vingt ans ont passé… Sylvie Colonna présidente des célèbres Haricots d’Arpajon qui sont devenus des haricots extra-fins, a refait sa vie avec José Pinto. Ensemble ils tiennent un restaurant portugais à Pontault-Combault : le Churrasco. Mais depuis le covid, les affaires vont mal. Leur fils, Manu, s’improvise « scout » et cherche le nouveau Mbappé pour sortir la famille de la galère. Un jour, lors du « défi de la Lucarne », il tombe sur une pépite : Kidane, un jeune migrant comorien qui a perdu son identité et sa famille lors d’une traversée en Méditerranée. Mais d’autres scouts rôdent, déjà. Manu va-t-il réussir à le garder ? Sylvie prend l’initiative d’appeler son frère à la rescousse. Alain Colonna sort de sa retraite à Tahiti pour aider les Pinto. Mais « le football il a changé », comme dit un célèbre joueur du PSG. 4 Zéros, un coup à quatre bandes qui va permettre à Kidane d’accomplir son rêve et de trouver une famille !",
+        "duration": "1h42",
+        "categories": "Comédie",
+        "releaseDate": "23 oct. 2024",
+        "actors": "Gérard Lanvin, Didier Bourdon, Isabelle Nanty, Fabien Onteniente"
+    },
+    {
+        "title": "Challenger",
+        "img": "https://media.pathe.fr/movie/alex/HO00007041/poster/md/92/movie&uuid=DE20774D-EE8F-4D4E-B9F4-8A85BBF0F57F",
+        "story": "Luka (Alban Ivanov) rêve d’être un grand boxeur… Malheureusement, pour l’instant, il n’est qu’amateur et doit se contenter de petits combats foireux. Mais un jour, le destin frappe à sa porte et propulse notre héros au sommet !",
+        "duration": "1h35",
+        "categories": "Comédie",
+        "releaseDate": "23 oct. 2024",
+        "actors": "Soso Maness, Alban Ivanov, Audrey Pirault, Varante Soudjian"
+    },
+    {
+        "title": "Angelo dans la forêt mystérieuse",
+        "img": "https://media.pathe.fr/movie/alex/HO00006885/poster/md/154/movie&uuid=C470ACAB-B768-4839-9909-32D93CC160DE",
+        "story": "Angelo, 10 ans, se rêve aventurier et explorateur. Jusqu’au jour où, partant en voiture avec sa famille pour se rendre au chevet de sa Mémé adorée bien malade, il est brusquement mis au défi de prouver son courage : oublié par erreur sur une aire d’autoroute, Angelo décide de couper à travers la forêt pour rejoindre la maison de Mémé. Il s’enfonce alors dans un territoire mystérieux peuplé d’êtres étranges que menace un ennemi pire encore que l’ogre de la région… D'après la bande dessinée DANS LA FORÊT SOMBRE ET MYSTÉRIEUSE de Winshluss",
+        "duration": "1h22",
+        "categories": "Animation",
+        "releaseDate": "23 oct. 2024",
+        "actors": "Philippe Katerine, José Garcia, Vincent Paronnaud, , Alexis Ducord"
+    },
+    {
+        "title": "Sur un fil",
+        "img": "https://media.pathe.fr/movie/alex/HO00007272/poster/md/42/movie&uuid=78FDDF77-696E-4E1E-840E-41210D259FEE",
+        "story": "Jo, une jeune femme, artiste de cirque de rue, découvre le travail des clowns professionnels de \"Nez pour rire\". Vite - peut-être trop vite - entrée dans l’association, elle se retrouve à l’hôpital au contact des enfants, des malades, des soignants et des familles, à qui ces clowns tentent inlassablement d’apporter de la joie et du réconfort.",
+        "duration": "1h56",
+        "categories": "Comédie dramatique",
+        "releaseDate": "30 oct. 2024",
+        "actors": "Aloïse Sauvage, Philippe Rebbot, Sara Giraudeau, Reda Kateb"
+    },
+    {
+        "title": "Amaran (version tamoul)",
+        "img": "https://media.pathe.fr/movie/alex/HO00008542/poster/md/6/movie&uuid=09D4F7CA-B7F2-4F7C-A4A2-F8ECFE365D1F",
+        "story": "Amaran est un film biographique qui retrace la vie personnelle et professionnelle du soldat Mukund Varadarajran, lauréat du prix AC, qui a été tué lors de l'opération Qazipathri à Shopian, le 25 avril 2014..",
+        "duration": "2h55",
+        "categories": "Action/Biopic/Drame",
+        "releaseDate": "30 oct. 2024",
+        "actors": "Sivakarthikeyan, Sai Pallavi, Bhuvan Arora, Rajkumar Periasamy"
+    },
+    {
+        "title": "L’Ombre Du Commandant",
+        "img": "https://media.pathe.fr/movie/alex/HO00007889/poster/md/52/movie&uuid=A67ED945-5E48-4C2B-BA70-FBB3EA1EFD29",
+        "story": "Deux vies. Deux histoires. Un mur qui les séparait. Assistez au moment historique, plus de 70 ans après l'Holocauste, où le fils du commandant d'Auschwitz rencontre une incroyable survivante.",
+        "duration": "1h43",
+        "categories": "Documentaire",
+        "releaseDate": "06 nov. 2024",
+        "actors": "Hans Jurgen Höss, Anita Lasker Wallfisch, Daniela Völker"
+    },
+    {
+        "title": "Veer-Zaara",
+        "img": "https://media.pathe.fr/movie/alex/HO00008518/poster/md/2/movie&uuid=F3C7B918-D34F-4A10-A4E1-917A2AB1FAEC",
+        "story": "Pilote et secouriste au sein de l'Indian Air Force, Veer risque sa vie pour sauver celle des autres. Jusqu'au jour où il porte secours à une jeune fille, Zaara, belle, rebelle, et légèrement inconsciente. Elle a quitté son Pakistan natal afin de venir en Inde accomplir les dernières volontés de sa mère. Veer tend la main à Zaara, sans savoir que son destin va en être changé à jamais. 22 ans plus tard, Saamiya est une jeune avocate pakistanaise qui travaille sur sa première affaire, et se retrouve face à un vieil homme aux cheveux blancs. C'est Veer, qui a passé toutes ces années dans une prison du Pakistan. Il n'a jamais parlé à quiconque pendant tout ce temps, pas même pour se défendre. Personne ne sait pourquoi. L'objectif que s'est fixé la jeune femme est de découvrir toute l'histoire de Veer, afin de lui rendre enfin justice...",
+        "duration": "3h18",
+        "categories": "Comédie musicale/Drame/Romance",
+        "releaseDate": "06 nov. 2024",
+        "actors": "Rani Mukerji, Shah Rukh Khan, Zinta Preity, Yash Chopra"
+    },
+    {
+        "title": "Au boulot !",
+        "img": "https://media.pathe.fr/movie/alex/HO00008280/poster/md/2/movie&uuid=6BD41350-FE35-43CE-8410-FE1450CEF6EC",
+        "story": "« C’est quoi ce pays d’assistés ? De feignasses ? » Sur le plateau des Grandes Gueules, l’avocate parisienne Sarah Saldmann s’emporte: « Le Smic, c’est déjà pas mal. » D’où l’invitation du député François Ruffin : « Je vous demande d’essayer de vivre, madame Saldmann, pendant trois mois, avec 1 300 €. – Admettons, mais une semaine, ça sera déjà pas mal. » Alors : peut-on réinsérer les riches ? Une comédie documentaire, avec des rires et des larmes, qui met à l’honneur ceux qui tiennent le pays debout.",
+        "duration": "1h24",
+        "categories": "Comédie/Documentaire",
+        "releaseDate": "06 nov. 2024",
+        "actors": ""
+    },
+    {
+        "title": "L'affaire Nevenka",
+        "img": "https://media.pathe.fr/movie/alex/HO00007996/poster/md/5/movie&uuid=472B356A-6B49-4576-9C45-8711EF907768",
+        "story": "À la fin des années 90, Nevenka Fernández, est élue à 25 ans conseillère municipale auprès du maire de Ponferrada, le charismatique et populaire Ismael Alvarez. C’est le début d’une descente aux enfers pour Nevenka, manipulée et harcelée pendant des mois par le maire. Pour s’en sortir, elle décide de dénoncer ses agissements et lui intente un procès. Inspiré de faits réels, L’AFFAIRE NEVENKA révèle le premier cas de #MeToo politique en Espagne.",
+        "duration": "1h57",
+        "categories": "Drame",
+        "releaseDate": "06 nov. 2024",
+        "actors": "Mireia Oriol, Lucía Veiga, Carlos Serrano, Icíar Bollaín"
+    },
+    {
+        "title": "Séance All Inclusive : Gladiator II",
+        "img": "https://media.pathe.fr/movie/alex/HO00008557/poster/md/9/movie&uuid=C327BAFF-7F16-47C2-80E9-F49582334CD8",
+        "story": "Venez découvrir en Avant-Première et dans les meilleures conditions, le nouveau chef-d’œuvre de Ridley Scott : Gladiator II. L’offre All Inclusive, c’est un accueil personnalisé par l’équipe de votre cinéma, un verre de bienvenu offert, ainsi qu’une collation gourmande salée et sucrée, pour un moment privilégié exceptionnel ! Synopsis : Des années après avoir assisté à la mort du héros vénéré Maximus aux mains de son oncle, Lucius est forcé d'entrer dans le Colisée lorsque son pays est conquis par les empereurs tyranniques qui gouvernent désormais Rome d'une main de fer. La rage au cœur et l'avenir de l'Empire en jeu, Lucius doit se tourner vers son passé pour trouver la force et l'honneur de rendre la gloire de Rome à son peuple",
+        "duration": "2h30",
+        "categories": "Action/Drame/Péplum",
+        "releaseDate": "10 nov. 2024",
+        "actors": "Pedro Pascal, Denzel Washington, Paul Mescal, Ridley Scott"
+    },
+    {
+        "title": "Terrifier 3",
+        "img": "https://media.pathe.fr/movie/alex/HO00007556/poster/md/175/movie&uuid=3E1DB444-F4D5-4C3E-A93A-63B569AB72CD",
+        "story": "Un troisième volet de la franchise Terrifier.",
+        "duration": "2h05",
+        "categories": "Epouvante-horreur",
+        "releaseDate": "09 oct. 2024",
+        "actors": "David Howard Thornton, Lauren LaVera, Damien Leone"
+    },
+    {
+        "title": "The Apprentice",
+        "img": "https://media.pathe.fr/movie/alex/HO00007687/poster/md/36/movie&uuid=84C55D35-80BC-459B-B6D5-6EB85E5FBB53",
+        "story": "Véritable plongée dans les arcanes de l'empire américain, THE APPRENTICE retrace l'ascension vers le pouvoir du jeune Donald Trump grâce à un pacte faustien avec l'avocat conservateur et entremetteur politique Roy Cohn.",
+        "duration": "2h00",
+        "categories": "Biopic/Drame/Historique",
+        "releaseDate": "09 oct. 2024",
+        "actors": "Jeremy Strong, Maria Bakalova, Emily Mitchell, Ali Abbasi"
+    },
+    {
+        "title": "Beetlejuice Beetlejuice",
+        "img": "https://media.pathe.fr/movie/alex/HO00006250/poster/md/294/movie&uuid=174E120C-BB0B-4D5F-BB9B-A5B17D531A98",
+        "story": "Après une terrible tragédie, la famille Deetz revient à Winter River. Toujours hantée par le souvenir de Beetlejuice, Lydia voit sa vie bouleversée lorsque sa fille Astrid, adolescente rebelle, ouvre accidentellement un portail menant à l’Après-vie. Alors que le chaos plane sur les deux mondes, ce n’est qu’une question de temps avant que quelqu’un ne prononce le nom de Beetlejuice trois fois et que ce démon farceur ne revienne semer la pagaille…",
+        "duration": "1h45",
+        "categories": "Comédie/Fantastique",
+        "releaseDate": "11 sept. 2024",
+        "actors": "Jenna Ortega, Michael Keaton, Monica Bellucci, Tim Burton"
+    },
+    {
+        "title": "Lee Miller",
+        "img": "https://media.pathe.fr/movie/alex/HO00007576/poster/md/140/movie&uuid=D84A9152-3975-4D4A-BAC1-70E6905600C0",
+        "story": "L’incroyable vie de LEE MILLER, ex-modèle pour Vogue et muse de Man Ray devenue l’une des premières femmes photographes de guerre. Partie sur le front et prête à tout pour témoigner des horreurs de la Seconde Guerre, elle a, par son courage et son refus des conventions, changé la façon de voir le monde.",
+        "duration": "1h57",
+        "categories": "Biopic/Drame/Historique",
+        "releaseDate": "09 oct. 2024",
+        "actors": "Jude Law, Kate Winslet, Alexander Skarsgård, Ellen Kuras"
+    },
+    {
+        "title": "Coraline",
+        "img": "https://media.pathe.fr/movie/903830/poster/1663667546496/md/13/film_12354.jpg",
+        "story": "Coraline Jones est une fillette intrépide et douée d'une curiosité sans limites. Ses parents, qui ont tout juste emménagé avec elle dans une étrange maison, n'ont guère de temps à lui consacrer. Pour tromper son ennui, Coraline décide donc de jouer les exploratrices. Ouvrant une porte condamnée, elle pénètre dans un appartement identique au sien... mais où tout est différent. Dans cet Autre Monde, chaque chose lui paraît plus belle, plus colorée et plus attrayante. Son Autre Mère est pleinement disponible, son Autre Père prend la peine de lui mitonner des plats exquis, et même le Chat, si hautain dans la Vraie vie, daigne s'entretenir avec elle. Coraline est bien tentée d'élire domicile dans ce Monde merveilleux, qui répond à toutes ses attentes. Mais le rêve va très vite tourner au cauchemar. Prisonnière de l'Autre Mère, Coraline va devoir déployer des trésors de bravoure, d'imagination et de ténacité pour rentrer chez elle et sauver sa Vraie famille.",
+        "duration": "1h55",
+        "categories": "Animation/Famille/Fantastique",
+        "releaseDate": "10 juin 2009",
+        "actors": "Dakota Fanning, Ian McShane, Teri Hatcher, Henry Selick"
+    },
+    {
+        "title": "Le Fil",
+        "img": "https://media.pathe.fr/movie/alex/HO00006719/poster/md/157/movie&uuid=944649FB-E70E-4DB6-964B-2879BBBAA77A",
+        "story": "Depuis qu’il a fait innocenter un meurtrier récidiviste, Maître Jean Monier (Daniel Auteuil) ne prend plus de dossiers criminels. La rencontre avec Nicolas Milik (Grégory Gadebois), père de famille accusé du meurtre de sa femme, le touche et fait vaciller ses certitudes. Convaincu de l’innocence de son client, il est prêt à tout pour lui faire gagner son procès aux assises, retrouvant ainsi le sens de sa vocation.",
+        "duration": "1h55",
+        "categories": "Drame",
+        "releaseDate": "11 sept. 2024",
+        "actors": "Daniel Auteuil, Sidse Babett Knudsen, Grégory Gadebois, Daniel Auteuil"
+    },
+    {
+        "title": "Megalopolis",
+        "img": "https://media.pathe.fr/movie/alex/HO00007744/poster/md/164/movie&uuid=B3A8CB8F-B901-479D-8409-8324E47AB805",
+        "story": "Megalopolis est une épopée romaine dans une Amérique moderne imaginaire en pleine décadence. La ville de New Rome doit absolument changer, ce qui crée un conflit majeur entre César Catilina, artiste de génie ayant le pouvoir d’arrêter le temps, et le maire archi-conservateur Franklyn Cicero. Le premier rêve d’un avenir utopique idéal alors que le second reste très attaché à un statu quo régressif protecteur de la cupidité, des privilèges et des milices privées. La fille du maire et jet-setteuse Julia Cicero, amoureuse de César Catilina, est tiraillée entre les deux hommes et devra découvrir ce qui lui semble le meilleur pour l’avenir de l’humanité.",
+        "duration": "2h18",
+        "categories": "Drame",
+        "releaseDate": "25 sept. 2024",
+        "actors": "Aubrey Plaza, Adam Driver, Shia LaBeouf, Francis Ford Coppola"
+    },
+    {
+        "title": "Emilia Pérez",
+        "img": "https://media.pathe.fr/movie/alex/HO00007621/poster/md/260/movie&uuid=1276186F-B69A-4A16-AA3C-DB43BB62D463",
+        "story": "Surqualifiée et surexploitée, Rita use de ses talents d’avocate au service d’un gros cabinet plus enclin à blanchir des criminels qu’à servir la justice. Mais une porte de sortie inespérée s’ouvre à elle, aider le chef de cartel Manitas à se retirer des affaires et réaliser le plan qu’il peaufine en secret depuis des années : devenir enfin la femme qu’il a toujours rêvé d’être.",
+        "duration": "2h12",
+        "categories": "Comédie musicale/Drame/Thriller",
+        "releaseDate": "21 août 2024",
+        "actors": "Selena Gomez, Edgar Ramírez, Zoe Saldana, Jacques Audiard"
+    },
+    {
+        "title": "Blink Twice",
+        "img": "https://media.pathe.fr/movie/alex/HO00007365/poster/md/135/movie&uuid=AD2E68D4-01CF-46B1-8B0F-78A3385856BA",
+        "story": "Quand le milliardaire de la technologie Slater King (Channing Tatum) rencontre Frida (Naomi Ackie), une serveuse, à sa soirée de collecte de fonds, c’est le coup de foudre. Invitée sur son île privée, elle y découvre des soirées décadentes où le champagne coule à flots. C'est le paradis. Les nuits animées se mêlent aux journées ensoleillées. Personne ne veut que ce voyage se termine, mais des événements étranges commencent à se produire. Frida commence à remettre en question sa réalité. Il y a quelque chose qui cloche avec cet endroit. Elle devra découvrir la vérité si elle veut sortir vivante de cette fête.",
+        "duration": "1h42",
+        "categories": "Epouvante-horreur/Thriller",
+        "releaseDate": "21 août 2024",
+        "actors": "Channing Tatum, Adria Arjona, Alia Shawkat, Zoë Kravitz"
+    },
+    {
+        "title": "The Killer",
+        "img": "https://media.pathe.fr/movie/alex/HO00007994/poster/md/52/movie&uuid=4111DD07-B9EF-46F5-8E14-8418FD50ECB5",
+        "story": "Lors de l'exécution de son dernier contrat, un tueur à gage provoque la cécité d'une jeune chanteuse. Pour trouver l'argent nécessaire à l'opération de la jeune femme, il accepte un nouveau contrat.",
+        "duration": "2h06",
+        "categories": "Action",
+        "releaseDate": "23 oct. 2024",
+        "actors": "Sam Worthington, Omar Sy, Diana Silvers, John Woo"
+    },
+    {
+        "title": "Barbès, Little Algérie",
+        "img": "https://media.pathe.fr/movie/alex/HO00007780/poster/md/37/movie&uuid=35DF1DB1-4D8A-4D8A-BAC1-462526508A14",
+        "story": "Malek, la quarantaine, célibataire, vient d’emménager à Montmartre et accueille bientôt chez lui son neveu Ryiad fraîchement arrivé d’Algérie. Ensemble ils découvrent Barbès, le quartier de la communauté algérienne, très vivant, malgré la crise sanitaire en cours. Ses rencontres avec les figures locales vont permettre à Malek de retrouver une part de lui qu’il avait enfouie, et de se réconcilier avec ses origines.",
+        "duration": "1h33",
+        "categories": "Drame",
+        "releaseDate": "16 oct. 2024",
+        "actors": "Clotilde Courau, Sofiane Zermani, François Guerrar"
+    },
+    {
+        "title": "Bloody Beggar (version tamoul)",
+        "img": "https://media.pathe.fr/movie/alex/HO00008543/poster/md/7/movie&uuid=3C746A21-A273-43CD-BA7E-03DE5FD7EB0A",
+        "story": "La vie d'un mendiant prend un tournant inattendu lorsqu'une mésaventure bouleverse sa routine quotidienne. Parviendra-t-il à se frayer un chemin à travers les situations étranges et pleines d'esprit qui s'ensuivent ?",
+        "duration": "2h21",
+        "categories": "Comédie/Drame",
+        "releaseDate": "30 oct. 2024",
+        "actors": "Redin Kingsley, Kavin Raj, Maruthi Prakashraj, M. Sivabalan"
+    },
+    {
+        "title": "Brother (version tamoul)",
+        "img": "https://media.pathe.fr/movie/alex/HO00008544/poster/md/7/movie&uuid=B85CD9FF-4885-4A77-857C-D0183515857C",
+        "story": "Karthik, un jeune homme insouciant et sans emploi, mène une vie sans ambition. Tout bascule lorsqu'il rencontre Archana, la femme de sa vie.",
+        "duration": "2h20",
+        "categories": "Comédie",
+        "releaseDate": "30 oct. 2024",
+        "actors": "Jayam Ravi, Priyanka Arulmohan, M.S. Bhaskar, M. Rajesh"
+    },
+    {
+        "title": "Gladiator II",
+        "img": "https://media.pathe.fr/movie/alex/HO00007481/poster/md/87/movie&uuid=8C8A2897-61A9-4327-8A05-87BB50B355B1",
+        "story": "L'histoire de Lucius, le fils de Lucilla (Connie Nielsen dans Gladiator) et neveu de Commode (Joaquin Phoenix). Lucius est très admiratif du parcours de Maximus et devrait suivre ses traces.",
+        "duration": "2h30",
+        "categories": "Action/Aventure/Drame",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Paul Mescal, Denzel Washington, Pedro Pascal, Ridley Scott"
+    },
+    {
+        "title": "Prodigieuses",
+        "img": "https://media.pathe.fr/movie/alex/HO00006939/poster/md/63/movie&uuid=0DB91C9C-80B4-4565-B371-C5E1E19DBE4C",
+        "story": "Claire et Jeanne, jumelles pianistes virtuoses, sont admises dans une prestigieuse université de musique dirigée par l’intraitable professeur Klaus Lenhardt. Elles portent ainsi l’ambition de leur père qui a tout sacrifié pour faire d’elles les meilleures. Mais, une maladie orpheline, fragilise peu à peu leurs mains, et compromet brusquement leur ascension. Refusant de renoncer à leur rêve, elles vont devoir se battre et se réinventer pour devenir, plus que jamais, prodigieuses. D’après une histoire vraie.",
+        "duration": "1h47",
+        "categories": "Biopic/Drame",
+        "releaseDate": "20 nov. 2024",
+        "actors": "Camille Razat, Mélanie Robert, Franck Dubosc, Frédéric Potier, , Valentin Potier"
+    },
+    {
+        "title": "La Vallée des fous",
+        "img": "https://media.pathe.fr/movie/alex/HO00006995/poster/md/26/movie&uuid=74ACDEC3-FB23-4FD3-8344-DE04DCF8B82B",
+        "story": "Passionné de voile, Jean-Paul traverse une passe difficile. Il accumule les dettes et s’éloigne des siens. Bien décidé à reprendre sa vie en main, il s’inscrit à Virtual Regatta la course virtuelle du Vendée Globe. Il se met dans les conditions d’un vrai skipper en s’isolant pendant 3 mois sur son bateau dans son jardin… Ce voyage pas comme les autres, lui permettra de renouer avec sa famille mais surtout avec lui-même.",
+        "duration": "2h00",
+        "categories": "Drame",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Joseph Olivennes, Jean-Paul Rouve, Pierre Richard, Xavier Beauvois"
+    },
+    {
+        "title": "Finalement",
+        "img": "https://media.pathe.fr/movie/alex/HO00007745/poster/md/39/movie&uuid=A91AFEC4-AC8D-4EBA-84A6-8973880279EB",
+        "story": "Dans un monde de plus en plus fou, Lino, qui a décidé de tout plaquer, va se rendre compte que finalement : tout ce qui nous arrive, c’est pour notre bien !",
+        "duration": "2h08",
+        "categories": "Drame/Romance",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Kad Merad, Elsa Zylberstein, Michel Boujenah, Claude Lelouch"
+    },
+    {
+        "title": "En tongs au pied de l'Himalaya",
+        "img": "https://media.pathe.fr/movie/alex/HO00007738/poster/md/97/movie&uuid=E42EF754-953B-4B4E-B5CC-63EA9BFD19BB",
+        "story": "Pauline est la maman d’Andréa, 6 ans et demi, un petit garçon formidable à qui on a diagnostiqué un TSA : un « trouble du spectre autistique ». Il n’est pas vraiment au niveau mais il est toujours scolarisé et s’apprête à faire sa rentrée en grande section de maternelle. Pour Pauline, sans revenus fixes et récemment séparée de Fabrice, le père d’Andréa, tout semble concourir à faire de sa vie une succession d’échecs. Or pour Andréa, c’est une année cruciale qui va déterminer s’il peut ou non rester scolarisé et obtenir ainsi une meilleure chance de voir son état s’améliorer. Mais pour cela, Andréa a besoin de stabilité et pour Pauline, la lui apporter, c’est un peu (beaucoup) gravir l’Himalaya en tongs…",
+        "duration": "1h33",
+        "categories": "Comédie/Drame",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Audrey Lamy, Benjamin Tranié, Nicolas Chupin, John Wax"
+    },
+    {
+        "title": "Le Royaume",
+        "img": "https://media.pathe.fr/movie/alex/HO00007680/poster/md/40/movie&uuid=CA3E630E-53BC-4228-820F-E97E3956960A",
+        "story": "Corse, 1995. Lesia vit son premier été d’adolescente. Un jour, un homme fait irruption et la conduit à moto dans une villa isolée où elle retrouve son père, en planque, entouré de ses hommes. Une guerre éclate dans le milieu et l’étau se resserre autour du clan. La mort frappe. Commence alors une cavale au cours de laquelle père et fille vont apprendre à se regarder, à se comprendre et à s’aimer.",
+        "duration": "1h51",
+        "categories": "Drame/Thriller",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Anthony Morganti, Andrea Cossu, Alexandre Joannides, Julien Colonna"
+    },
+    {
+        "title": "Une part manquante",
+        "img": "https://media.pathe.fr/movie/alex/HO00007948/poster/md/53/movie&uuid=6587DDED-FC87-4E71-89E5-46F453101093",
+        "story": "Tous les jours, Jay parcourt Tokyo au volant de son taxi à la recherche de sa fille, Lily. Séparé depuis 9 ans, il n’a jamais pu obtenir sa garde. Alors qu’il a cessé d’espérer la revoir et qu’il s’apprête à rentrer en France, Lili entre dans son taxi…",
+        "duration": "1h38",
+        "categories": "Drame",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Judith Chemla, Romain Duris, Mei Cirne-Masuki, Guillaume Senez"
+    },
+    {
+        "title": "On aurait dû aller en Grèce",
+        "img": "https://media.pathe.fr/movie/alex/HO00007802/poster/md/8/movie&uuid=3ED203F7-C638-44B0-9720-01D1895F2306",
+        "story": "Ne pouvant partir comme à leur habitude en Grèce pour leur unique semaine annuelle de vacances familiales, les Rousselot débarquent en Corse. Après un accident de la route sur l’Île de Beauté, des voisins plutôt bienveillants mais pas seulement, viennent perturber leur début de vacances… Règlements de comptes familiaux, insulaires, et quiproquos en vue…",
+        "duration": "1h22",
+        "categories": "Comédie",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Elie Semoun, Gérard Jugnot, Vincent Desagnat, Nicolas Benamou"
+    },
+    {
+        "title": "Kanguva (version tamoul)",
+        "img": "https://www.pathe.fr/assets/source/img/poster-placeholder-pathe-empty.jpg",
+        "story": "Il y a plus de 1000 ans, un guerrier luttait pour sauver son peuple. Aujourd'hui, son histoire est mystérieusement liée à la quête d'un policier...",
+        "duration": "2h34",
+        "categories": "Action/Drame",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Bobby Deol, Disha Patani, Surya Sivakumar, Siva ."
+    },
+    {
+        "title": "La séance Ciné Hits : (500) JOURS ENSEMBLE",
+        "img": "https://media.pathe.fr/movie/alex/HO00008246/poster/md/20/movie&uuid=5C154FF5-F027-4B9A-BF09-0DAEC7B09469",
+        "story": "La séance Ciné Hits : (500) jours ensemble - Jeudi 14 novembre. LES 30 ANS DE SEARCHLIGHT PICTURES - Grâce à la séance Ciné Hits, redécouvrez ce film culte précédé d'un quiz. Synopsis : Tom croit encore en un amour qui transfigure, un amour à la destinée cosmique, un coup de foudre unique. Ce qui n'est pas du tout le cas de Summer. Cela n'empêche pourtant pas Tom de partir à sa conquête, armé de toute sa force et de tout son courage, tel un Don Quichotte des temps modernes. La foudre tombe le premier jour, quand Tom rencontre Summer la nouvelle secrétaire de son patron, une belle jeune fille enjouée. Au 31ème jour, les choses avancent, lentement. Le 32ème jour, Tom est irrémédiablement conquis, pris dans le tourbillon étourdissant d'une vie avec Summer. 185 jours après leur rencontre, la situation est de plus en plus incertaine – mais pas sans espoir. Alors que l'histoire fait des allers-retours au sein de la relation parfois heureuse, mais souvent tumultueuse de Tom et Summer, le récit couvre tout le spectre de la relation amoureuse, du premier coup de coeur aux rendez-vous, du sexe à la séparation, à la récrimination et à la rédemption et décrit toutes les raisons qui nous poussent à nous battre aussi ardemment pour arriver à trouver un sens à l'amour... Et, avec un peu de chance, à en faire une réalité.",
+        "duration": "1h41",
+        "categories": "Comédie/Drame/Romance",
+        "releaseDate": "14 nov. 2024",
+        "actors": "Geoffrey Arend, Zooey Deschanel, Joseph Gordon-Levitt, Marc Webb"
+    },
+    {
+        "title": "Shawn Mendes: For Friends & Family Only (A Live Concert Film)",
+        "img": "https://media.pathe.fr/movie/alex/HO00008536/poster/md/3/movie&uuid=FF0794D4-94F1-4748-85C1-F35F1A827F18",
+        "story": "Avec son concert filmé au théâtre historique de Bearsville à Woodstock, l’auteur compositeur musicien interprète propose un événement totalement exclusif à ses fans. Shawn Mendes : For Friends & Family Only (A Live Concert Film) offre aux fans l’occasion de découvrir son nouvel album en intégralité, juste avant sa sortie. Tout au long du film, Shawn Mendes partage des histoires personnelles et l'inspiration derrière chaque morceau, offrant un regard intime sur son parcours créatif.",
+        "duration": "1h30",
+        "categories": "Concert",
+        "releaseDate": "14 nov. 2024",
+        "actors": "Shawn Mendes, Connor Brashier, , Anthony Wilson"
+    },
+    {
+        "title": "Les Boules de Noël",
+        "img": "https://media.pathe.fr/movie/alex/HO00007910/poster/md/17/movie&uuid=5103764D-7D9D-4EEF-B835-DBD7DC948AD8",
+        "story": "Pour la famille de Nathalie et Antonin, chaque année, le réveillon de Noël vire au cauchemar. Convaincue qu’elle est victime d’une malédiction, Nathalie prend une décision radicale : cette année on ne le fêtera pas ! Mais c’est sans compter sur Antonin et ses enfants qui décident de reprendre les choses en mains en invitant Nicole, la sœur de Nathalie qu’elle a perdue de vue. Entre les rivalités latentes et les frustrations accumulées, ce réveillon va devenir le plus cruel et le plus explosif de tous !",
+        "duration": "1h28",
+        "categories": "Comédie",
+        "releaseDate": "27 nov. 2024",
+        "actors": "Kad Merad, Noémie Lvovsky, Valérie Bonneton, Alexandra Leclère"
+    },
+    {
+        "title": "Le Panache",
+        "img": "https://media.pathe.fr/movie/alex/HO00007579/poster/md/23/movie&uuid=79C0B38D-DFF6-4244-A662-15CD4FAFD681",
+        "story": "Colin, 14 ans, fait son entrée dans un nouveau collège et il flippe : comment s’en sortir quand, comme lui, on est bègue ? Sa rencontre avec Monsieur Devarseau, charismatique prof de français, va le pousser à affronter ses peurs et sortir de son isolement. Maintenant Colin a une bande de copains et un projet : monter sur scène pour jouer Cyrano devant toute l’école.",
+        "duration": "1h33",
+        "categories": "Comédie/Drame",
+        "releaseDate": "20 nov. 2024",
+        "actors": "José Garcia, Aure Atika, Joachim Arseguel, Jennifer Devoldère"
+    },
+    {
+        "title": "Kanguva (version telugu)",
+        "img": "https://media.pathe.fr/movie/alex/HO00008612/poster/md/5/movie&uuid=454B20EB-D292-4397-BA82-DE564291BF6C",
+        "story": "Il y a plus de 1000 ans, un guerrier luttait pour sauver son peuple. Aujourd'hui, son histoire est mystérieusement liée à la quête d'un policier...",
+        "duration": "2h34",
+        "categories": "Action/Drame/Fantastique",
+        "releaseDate": "13 Nov 2024",
+        "actors": "Bobby Deol, Disha Patani, Surya Sivakumar, Siva ."
+    },
+    {
+        "title": "Kanguva (version hindi)",
+        "img": "https://media.pathe.fr/movie/alex/HO00008613/poster/md/5/movie&uuid=2AB566D4-ED85-402B-830B-CD3C5B36A058",
+        "story": "Il y a plus de 1000 ans, un guerrier luttait pour sauver son peuple. Aujourd'hui, son histoire est mystérieusement liée à la quête d'un policier...",
+        "duration": "2h34",
+        "categories": "Action/Drame/Fantastique",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Bobby Deol, Disha Patani, Surya Sivakumar, Siva ."
+    },
+    {
+        "title": "Les Rendez-vous de l'Animé : OVERLORD The Sacred Kingdom",
+        "img": "https://media.pathe.fr/movie/alex/HO00008571/poster/md/2/movie&uuid=521E30CA-17E9-4179-AAB0-051FB3871CF7",
+        "story": "Grâce aux Rendez-vous de l’animé, découvrez le film OVERLORD : The Sacred Kingdom. Synopsis : Pour se protéger des invasions extérieures, le Royaume Sacré a érigé une muraille imprenable, sans imaginer que cette quiétude apparente serait ébranlée par l’armée du démon Jaldabaoth. Refusant de se soumettre à l’ennemi, les dirigeants du pays sollicitent le célèbre sorcier Ainz Ooal Gown afin qu’il leur prête main-forte.",
+        "duration": "2h15",
+        "categories": "Animation",
+        "releaseDate": "16 nov. 2024",
+        "actors": ""
+    },
+    {
+        "title": "Andrea Bocelli 30: The Celebration",
+        "img": "https://media.pathe.fr/movie/alex/HO00008451/poster/md/3/movie&uuid=B1C87774-AB0E-4E70-9B1A-1823DC4FA079",
+        "story": "Le ténor italien Andrea Bocelli honore son 30ème anniversaire avec le film de son concert qu’il a donné dans sa ville natale, au Teatro del Silenzio, un amphithéâtre naturel au milieu des collines toscanes. Le vaste répertoire bien-aimé du Maestro est notamment mis en valeur par des duos avec une distribution sans précédent de superstars mondiales, dont Ed Sheeran, Shania Twain, Jon Batiste, Brian May, Sofia Vergara, David Foster & Katharine McPhee, Matteo Bocelli, Sofia Carson, Lauren Daigle, Eros Ramazzotti, et plus encore, ainsi que des apparitions spéciales de Kim et Khloe Kardashian. Avec une mise en scène, une production et des visuels extraordinaires, dans un paysage à couper le souffle, la carrière sensationnelle d'Andrea Bocelli prend vie dans une expérience inoubliable.",
+        "duration": "2h30",
+        "categories": "Documentaire",
+        "releaseDate": "17 nov. 2024",
+        "actors": "Andrea Bocelli, Sam Wrench"
+    },
+    {
+        "title": "37 : l'ombre et la proie",
+        "img": "https://media.pathe.fr/movie/alex/HO00007909/poster/md/34/movie&uuid=C58531BC-57B7-4933-8CFB-14F1D9727462",
+        "story": "Vincent, chauffeur-routier, prend en stop une jeune femme qui prétend s’appeler Trente-Sept. Très vite, son comportement étrange éveille les soupçons du routier. Mais Vincent lui-même n’est peut-être pas aussi innocent qu’il n’y paraît... Entre le chauffeur et sa passagère s’engage alors un jeu diabolique qui va bientôt devenir totalement hors de contrôle.",
+        "duration": "1h33",
+        "categories": "Drame/Thriller",
+        "releaseDate": "20 nov. 2024",
+        "actors": "Melodie Wakivuamina, Guillaume Pottier, Arthur Môlard"
+    },
+    {
+        "title": "Les Rendez-vous de l'Animé : Trapezium",
+        "img": "https://media.pathe.fr/movie/alex/HO00008399/poster/md/14/movie&uuid=AB25C21C-F7A0-4AA0-84AE-53C4FFAB5888",
+        "story": "Grâce aux Rendez-vous de l’animé, découvrez le film Trapezium. Synopsis : Une lycéenne déterminée à devenir une idole fait face à des obstacles pour poursuivre son rêve. En chemin, elle se lie d’amitié avec des étoiles en herbe de toutes les directions, apprenant ce que signifie vraiment son ambition brillante...",
+        "duration": "1h35",
+        "categories": "Animation",
+        "releaseDate": "19 nov. 2024",
+        "actors": "Hina Kino, Asaki Yuikawa, Haruka Aikawa, Masahiro Shinohara"
+    },
+    {
+        "title": "La Séance live : Finalement",
+        "img": "https://media.pathe.fr/movie/alex/HO00008506/poster/md/6/movie&uuid=1C1BD036-C4A1-41C2-AB60-531D4FD4A0D2",
+        "story": "Découvrez notre nouveau rendez-vous : La Séance Live, consacrée mardi 19 novembre au film « Finalement » ! Avant premiere accompagnée d'une rencontre avec l'équipe du film, au Pathé Convention. Synopsis : Dans un monde de plus en plus fou, Lino, qui a décidé de tout plaquer, va se rendre compte que finalement : tout ce qui nous arrive, c’est pour notre bien !",
+        "duration": "2h08",
+        "categories": "Comédie dramatique/Musical/Romance",
+        "releaseDate": "19 nov. 2024",
+        "actors": "Kad Merad, Elsa Zylberstein, Michel Boujenah, Claude Lelouch"
+    },
+    {
+        "title": "Saint-Ex",
+        "img": "https://media.pathe.fr/movie/alex/HO00007489/poster/md/9/movie&uuid=A3DB0E66-9FF1-409E-A383-665E3E28F5BC",
+        "story": "En 1930, Antoine de Saint-Exupéry est pilote de l’Aéropostale en Argentine. Quand Henri Guillaumet, son meilleur ami et le meilleur pilote de l’Aéropostale, disparaît dans la Cordillère des Andes, Saint-Ex décide de partir à sa recherche. Cette quête impossible l'oblige à se dépasser, en faisant de sa capacité à rêver sa plus grande force...",
+        "duration": "1min",
+        "categories": "Drame",
+        "releaseDate": "11 déc. 2024",
+        "actors": "Vincent Cassel, Diane Kruger, Louis Garrel, Pablo Agüero"
+    },
+    {
+        "title": "Les Rendez-vous de l'Animé : Hayao Miyazaki et le Héron",
+        "img": "https://media.pathe.fr/movie/alex/HO00008576/poster/md/2/movie&uuid=FE56D5CE-7D92-4797-87D8-2085905BDAB9",
+        "story": "Grâce aux Rendez-vous de l’animé, découvrez le documentaire \"Hayao Miyazaki et le Héron\". Synopsis : Hayao Miyazaki et le Héron est un documentaire de deux heures qui retrace le tournage du Garçon et le héron, filmé avec un accès exclusif au Studio Ghibli sur une période étonnante de sept ans. C’est aussi un témoignage de la collaboration entre le cinéaste Hayao Miyazaki et le producteur Toshio Suzuki, qui se livrent à une danse complexe de tromperie et d’amitié, à l’image de Mahito et le Héron, tandis que Suzuki pousse Miyazaki à aller toujours plus loin dans sa créativité, pour finalement accoucher d’un chef-d’œuvre sans précédent.",
+        "duration": "2h00",
+        "categories": "Documentaire",
+        "releaseDate": "21 nov. 2024",
+        "actors": "Hayao Miyazaki, Toshio Suzuki, Kaku Arakawa"
+    },
+    {
+        "title": "Wicked",
+        "img": "https://media.pathe.fr/movie/alex/HO00000637/poster/md/98/movie&uuid=B8EABB10-256B-4E57-AA01-CE414F888D55",
+        "story": "WICKED suit le parcours des sorcières légendaires du monde d’Oz. Cynthia Erivo incarne Elphaba, une jeune femme incomprise à cause de la couleur inhabituelle de sa peau verte qui ne soupçonne même pas l’étendue de ses pouvoirs. À ses côtés, la superstar mondiale de la Pop, Ariana Grande, interprète Glinda qui, aussi populaire que privilégiée, ne connaît pas encore la vraie nature de son cœur. Leur rencontre à l'Université de Shiz, dans le fantastique monde d'Oz, marque le début d’une amitié improbable mais profonde. Cependant, leur rapport avec Le Magicien d'Oz va mettre à mal cette amitié et voir leurs chemins s’éloigner. Tandis que Glinda, assoiffée de popularité, se laisse séduire par le pouvoir, la détermination d'Elphaba à rester fidèle à elle-même et à son entourage aura des conséquences aussi malheureuses qu’inattendues. Leurs aventures extraordinaires au pays d’Oz les mèneront finalement à accomplir leur destinée en devenant respectivement la Bonne et la Méchante Sorcière de l'Ouest. À l’affiche du film on retrouve également Michelle Yeoh®, dans le rôle de Madame Morrible, la toute puissante doyenne de l'Université de Shiz, Jonathan Bailey (Les Chroniques de Bridgerton, Fellow Travelers) dans le rôle de Fiyero, un jeune prince aussi espiègle qu’insouciant, Ethan Slater dans le rôle de Boq, un étudiant plein de bonnes intentions, Marissa Bode, pour la première fois à l’écran, interprètera Nessarose la sœur adorée d'Elphaba, et dans le rôle du légendaire Magicien d'Oz : l'icône de la Pop Culture Jeff Goldblum. Dans des rôles plus secondaires, mais tout aussi attachants, on retrouvera également Bowen Yang (Saturday Night Live) et Bronwyn James (Les Filles De Joie) dans les rôles de Pfannee et ShenShen, les fidèles complices de Glinda, ainsi qu'un nouveau personnage créé pour le film, Miss Coddle, interprété par Keala Settle (la femme à barbe dans THE GREATEST SHOWMAN). WICKED est le premier opus captivant d’une réinterprétation culte en deux parties, toutes deux réalisées par le célèbre cinéaste Jon M. Chu (CRAZY RICH ASIANS, D’OÙ L’ON VIENT). WICKED 2 devrait arriver en salles fin 2025. WICKED est produit par Marc Platt (LA LA LAND, LA PETITE SIRÈNE), dont les films, téléfilms et spectacles ont remporté au total 46 nominations aux Oscars®, 58 aux Emmy et 36 aux Tony Awards, en collaboration avec David Stone récompensé lui aussi plusieurs fois aux Tony Awards. La production exécutive est quant à elle assurée par David Nicksay, Stephen Schwartz et Jared LeBoff. D’après le roman à succès Wicked : The Untold Story Of The Witches of Oz (réécriture du Magicien D’oz de L. Frank Baum et du film réalisé par Victor Fleming en 1939), WICKED est adapté pour le cinéma par l'auteur du roman éponyme Gregory Maguire, avec la complicité de Winnie Holzman qui en a signé l’adaptation scénique et du légendaire compositeur et parolier Oscarisé® Stephen Schwartz.",
+        "duration": "2h41",
+        "categories": "Comédie musicale",
+        "releaseDate": "04 déc. 2024",
+        "actors": "Cynthia Erivo, Michelle Yeoh, Ariana Grande, John M. Chu"
+    },
+    {
+        "title": "Les Reines du drame",
+        "img": "https://media.pathe.fr/movie/alex/HO00007863/poster/md/3/movie&uuid=5F3B9AA4-1269-4BA4-9425-F6358CCE4298",
+        "story": "2055. Steevyshady, youtubeur hyper botoxé raconte le destin incandescent de son idole, la diva pop Mimi Madamour, du top de sa gloire en 2005 à sa descente aux enfers, précipitée par son histoire d’amour avec l'icône punk Billie Kohler. Pendant un demi-siècle, ces reines du drame ont chanté leur passion et leur rage sous le feu des projecteurs.",
+        "duration": "1h55",
+        "categories": "Comédie/Drame",
+        "releaseDate": "27 nov. 2024",
+        "actors": "Ventura, Louiza Aura, Bilal Hassani, Alexis Langlois"
+    },
+    {
+        "title": "Tosca (Metropolitan Opera)",
+        "img": "https://media.pathe.fr/movie/alex/HO00007475/poster/md/12/movie&uuid=3073754C-D738-4EE8-8B0E-2571EB0022E0",
+        "story": "Angelotti s’est enfui de son lieu de détention et va trouver de l’aide auprès de son ami le peintre Cavaradossi. Le baron Scarpia, chef de la police, se doutant de la complicité du peintre, manipule son amante Floria Tosca en tirant profit de sa jalousie. Il use d’un chantage odieux qui oblige la jeune femme à faire un sacrifice auquel elle ne saurait consentir. - Art et amour, politique et complots : Tosca est un pilier du répertoire qui tient son audience en haleine du début à la fin ! Aperçue au cinéma dans Ariane à Naxos de Stauss et La Force du destin de Verdi, la désormais incontournable norvégienne Lise Davidsen incarne l’héroïne jalouse et tourmentée de Puccini. - Musique : Giacomo Puccini Mise en scène : David McVicar Direction musicale : Xian Chang Opéra en trois actes présenté en italien sous-titré en français.",
+        "duration": "3h28",
+        "categories": "Opera",
+        "releaseDate": "23 nov. 2024",
+        "actors": "Freddie De Tommaso, Quinn Kelsey, Lise Davidsen, Giacomo Puccini"
+    },
+    {
+        "title": "Niko le petit renne, mission Père Noël",
+        "img": "https://media.pathe.fr/movie/alex/HO00006382/poster/md/18/movie&uuid=092A14F0-9481-41EA-9747-6B987550DD02",
+        "story": "Niko quitte sa famille pour tenter de devenir membre de l’équipe des rennes volants du Père Noel et y fait la connaissance de Stella, une jeune renne talentueuse. Alors que le traineau du Père Noel a disparu, Niko et ses amis prennent la direction du Nord glacé pour le retrouver à temps et sauver Noel.",
+        "duration": "1h25",
+        "categories": "Animation/Aventure/Famille",
+        "releaseDate": "04 déc. 2024",
+        "actors": ""
+    },
+    {
+        "title": "En fanfare",
+        "img": "https://media.pathe.fr/movie/alex/HO00007694/poster/md/22/movie&uuid=96D5D7A5-2A93-481D-A2B9-BD442B46A666",
+        "story": "Thibaut est un chef d’orchestre de renommée internationale qui parcourt le monde. Lorsqu'il apprend qu'il a été adopté, il découvre l'existence d'un frère, Jimmy, employé de cantine scolaire et qui joue du trombone dans une fanfare du nord de la France. En apparence tout les sépare, sauf l'amour de la musique. Détectant les capacités musicales exceptionnelles de son frère, Thibaut se donne pour mission de réparer l’injustice du destin. Jimmy se prend alors à rêver d’une autre vie…",
+        "duration": "1h43",
+        "categories": "Comédie dramatique",
+        "releaseDate": "27 nov. 2024",
+        "actors": "Benjamin Lavernhe, Anne Loiret, Antonin Artaud, Emmanuel Courcol"
+    },
+    {
+        "title": "La Plus Précieuse Des Marchandises",
+        "img": "https://media.pathe.fr/movie/alex/HO00007310/poster/md/30/movie&uuid=2C35ED80-A3DF-4EAC-8326-CF10FA5365FB",
+        "story": "Il était une fois, dans un grand bois, un pauvre bûcheron et une pauvre bûcheronne. Le froid, la faim, la misère, et partout autour d´eux la guerre, leur rendaient la vie bien difficile. Un jour, pauvre bûcheronne recueille un bébé. Un bébé jeté d’un des nombreux trains qui traversent sans cesse leur bois. Protégée quoi qu’il en coûte, ce bébé, cette petite marchandise va bouleverser la vie de cette femme, de son mari , et de tous ceux qui vont croiser son destin, jusqu’à l’homme qui l’a jeté du train. Leur histoire va révéler le pire comme le meilleur du cœur des hommes.",
+        "duration": "1h21",
+        "categories": "Animation/Drame",
+        "releaseDate": "20 nov. 2024",
+        "actors": "Denis Podalydès, Dominique Blanc, Jean-Louis Trintignant, Michel Hazanavicius"
+    },
+    {
+        "title": "Vaiana 2",
+        "img": "https://media.pathe.fr/movie/alex/HO00007364/poster/md/23/movie&uuid=C5F41CA9-3D83-4DA1-A1AF-0BCB528C4001",
+        "story": "Après avoir reçu un signe inattendu de ses ancêtres, Vaiana entreprend un périple qui la conduira jusqu’aux eaux dangereuses situées aux confins des mers des îles du Pacifique. Accompagnée du mythique demi-dieu Maui - à la puissance et à la force remarquables – mais aussi d’un improbable équipage de marins, la jeune aventurière au long cours va vivre des péripéties comme jamais vécues auparavant…",
+        "duration": "1h39",
+        "categories": "Animation/Aventure",
+        "releaseDate": "27 nov. 2024",
+        "actors": ""
+    },
+    {
+        "title": "Il était une fois... Le Dernier des Mohicans",
+        "img": "https://media.pathe.fr/movie/alex/HO00008296/poster/md/22/movie&uuid=7FD679A1-F98D-4456-A91F-25710BBCAA22",
+        "story": "Avec La Séance Il était une fois... (re)découvrez ce classique de Michael Mann : Le Dernier des Mohicans ! La séance sera présentée par le journaliste et critique de cinéma Philippe Rouyer. Synopsis : En 1757 dans l'Etat de New York, alors que la guerre fait rage entre Francais et Anglais pour l'appropriation des territoires indiens, un jeune officier anglais, Duncan Heyward, est chargé de conduire deux soeurs, Cora et Alice Munro jusqu'à leur père. Ils sont sauvés d'une embuscade par Hawkeye, un frontalier d'origine européenne, élevé par le Mohican Chingachgook et son fils Uncas. Les trois hommes acceptent d'escorter les deux jeunes filles jusqu'à leur destination.",
+        "duration": "2h04",
+        "categories": "Action/Aventure/Romance",
+        "releaseDate": "28 nov. 2024",
+        "actors": "Russell Means, Daniel Day-Lewis, Madeleine Stowe, Michael Mann"
+    },
+    {
+        "title": "Placebo: This Search for Meaning",
+        "img": "https://media.pathe.fr/movie/alex/HO00008492/poster/md/7/movie&uuid=E7B88532-102D-461D-A3B6-36D41FA1BA49",
+        "story": "Le groupe Placebo, connu pour ses titres provocateurs comme \"Nancy Boy\" et \"Bruise Pristine\", se dévoile dans ce documentaire intime réalisé par Oscar Sansom, primé pour son travail innovant dans le cinéma musical. Le film retrace le parcours du groupe depuis ses débuts subversifs jusqu'à aujourd'hui, explorant des thèmes tels que la culture de la surveillance, la sexualité, l'addiction, le trauma et les enjeux environnementaux. À travers des interviews inédites des membres du groupe Brian Molko et Stefan Olsdal, des performances en studio exclusives de leur récent album à succès Never Let Me Go et des images rares d’archives, telles que leur collaboration avec David Bowie, ce film inédit révèle le processus créatif de Placebo et leur influence sur la scène musicale mondiale. Dans cette plongée audacieuse, sincère et sans compromis de leur mode de vie rock 'n' roll, avec toutes les conséquences que cela implique, Placebo continue de poser les questions que personne n'ose aborder, défiant chacun de trouver ses propres réponses.",
+        "duration": "1h32",
+        "categories": "Documentaire",
+        "releaseDate": "28 nov. 2024",
+        "actors": "Robbie Williams, Joe Talbot, Shirley Manson, Oscar Sansom"
+    },
+    {
+        "title": "La reine des neiges, l'histoire oubliée",
+        "img": "https://media.pathe.fr/movie/alex/HO00008313/poster/md/25/movie&uuid=79DFDC8C-47D6-47CC-B2B2-17AABD4D389C",
+        "story": "Gerda et Kay sont des compagnons de jeu inséparables jusqu’à ce jour où, blessé par deux cristaux d’un miroir brisé, le jeune garçon change de caractère et devienne colérique. Il disparaît alors, enlevé par la mystérieuse Reine des neiges. Sans nouvelles de lui, Gerda décide de partir à travers le monde à la recherche de son frère de cœur…",
+        "duration": "1h42",
+        "categories": "Comédie",
+        "releaseDate": "01 déc. 2024",
+        "actors": ""
+    },
+    {
+        "title": "Les Vendredis de l'Horreur : SAW (premier opus)",
+        "img": "https://media.pathe.fr/movie/alex/HO00008517/poster/md/6/movie&uuid=04503B8D-22E2-41FB-A705-11E44CE84F26",
+        "story": "Avec Les Vendredis de l'Horreur, découvrez une sélection de films de genre en avant-première ou en séance spéciale. Pour cette nouvelle édition, (re) découvrez le premier opus du film \"SAW\" le vendredi 6 décembre ! Synopsis : Deux hommes se réveillent enchaînés au mur d'une salle de bains. Ils ignorent où ils sont et ne se connaissent pas. Ils savent juste que l'un doit absolument tuer l'autre, sinon dans moins de huit heures, ils seront exécutés tous les deux... Voici l'une des situations imaginées par un machiavélique maître criminel qui impose à ses victimes des choix auxquels personne ne souhaite jamais être confronté un jour. Un détective est chargé de l'enquête...",
+        "duration": "1h42",
+        "categories": "Epouvante - Horreur/Thriller",
+        "releaseDate": "06 déc. 2024",
+        "actors": "Leigh Whannell, Danny Glover, Cary Elwes, James Wan"
+    },
+    {
+        "title": "Laufey's A Night at the Symphony: Hollywood Bowl",
+        "img": "https://media.pathe.fr/movie/alex/HO00008564/poster/md/2/movie&uuid=027423EA-165F-4D00-8787-E6B83FD9C64B",
+        "story": "Laufey, artiste islando-chinoise de 25 ans, lauréate d'un GRAMMY, écrit des chansons inspirées par les grands noms du jazz et les maîtres de la musique classique, tout en adoptant un point de vue qui ne peut être transmis que par une jeune femme du XXIe siècle. Cette approche romantique et novatrice a conquis le public du monde entier, créant une communauté mondiale de « Lauvers » et faisant salle comble à chaque date de tournée que la « Gen Z It Girl » (NY Times) a mise en vente. Le film A Night at the Symphony : Hollywood Bowl a été tourné à Los Angeles, la ville d'adoption de Laufey. Réalisé par Sam Wrench (Taylor Swift | The Eras Tour), Laufey emmène le public dans un voyage sonore envoûtant, sous les étoiles, aux côtés du légendaire orchestre philharmonique de Los Angeles. Jouant dans la salle emblématique où Ella Fitzgerald et tant d'autres héros de Laufey ont joué avant elle, le film donne un aperçu des coulisses de ce spectacle monumental. Comme le résume Variety, « Laufey a l'impression d'être née pour jouer au Hollywood Bowl ».",
+        "duration": "1h40",
+        "categories": "Concert",
+        "releaseDate": "08 déc. 2024",
+        "actors": ""
+    },
+    {
+        "title": "Daft Punk & Leiji Matsumoto’s Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "img": "https://media.pathe.fr/movie/alex/HO00008609/poster/md/9/movie&uuid=9DBC7C4D-01DD-4852-B71F-A971796013B6",
+        "story": "Sorti initialement en mai 2003, Interstella 5555 : The 5tory of the 5ecret 5tar 5ystem des Daft Punk et Leiji Matsumoto a été écrit par Thomas Bangalter, Guy-Manuel de Homem-Christo et Cédric Hervet, réalisé par Kazuhisa Takenouchi et supervisé par le légendaire Leiji Matsumoto. Interstella 5555 raconte l’histoire de l’enlèvement d’un groupe de musique extraterrestre par un personnage humain maléfique ayant des intentions sombres. Ce film d’une heure a été divisé en clips musicaux pour accompagner l’album Discovery des Daft Punk, et il est rare de le voir dans sa forme originale au cinéma. Cette projection sera suivie d’une sélection spéciale de clips emblématiques des Daft Punk, réalisés par des cinéastes parmi lesquels Spike Jonze, Michel Gondry, Seb Janiak, Roman Coppola et Warren Fu.",
+        "duration": "1h33",
+        "categories": "Animation",
+        "releaseDate": "12 déc. 2024",
+        "actors": "Thomas Bangalter, Romanthony, Daisuke Nishio, , Hirotoshi Rissen, , Kazuhisa Takenouchi"
+    },
+    {
+        "title": "Elle(s) au cinéma : Sarah Bernhardt, La Divine",
+        "img": "https://media.pathe.fr/movie/alex/HO00008479/poster/md/11/movie&uuid=0807F72F-353E-4201-9A07-AC8D03C9DC87",
+        "story": "La séance Elle(s) au cinéma met en lumière une sélection de films qui placent les femmes au coeur de leurs thématiques. Découvrez le film \" Sarah Bernhardt, La Divine \" précédé d'une interview filmée de Sandrine Kiberlain ! Synopsis : 1915, Sarah Bernhardt est la première star mondiale. Libre. Moderne. Divine. Excentrique. Visionnaire… Entre légende et fantasme, Sarah Bernhardt nous confie l’histoire d’amour qui a marqué sa vie.",
+        "duration": "1h40",
+        "categories": "Drame/Romance",
+        "releaseDate": "15 déc. 2024",
+        "actors": "Laurent Lafitte, Sandrine Kiberlain, Amira Casar, Guillaume Nicloux"
+    },
+    {
+        "title": "Aïda (Metropolitan Opera)",
+        "img": "https://media.pathe.fr/movie/alex/HO00007473/poster/md/12/movie&uuid=85A071B4-FD0E-4E8D-88B7-A6AE8F2A9C7E",
+        "story": "Aïda, princesse éthiopienne, est retenue captive en Égypte. Amneris, la fille du roi, la tient pour rivale car elle est aimée de Radamès, le chef des armées. Lorsque ce dernier rentre vainqueur d'une campagne contre l'Éthiopie, Aïda est convaincue que son père, le roi Amonasro, est mort au combat. Mais, déguisé en simple soldat, il a survécu et propose à sa fille un complot pour découvrir les secrets militaires des Égyptiens. - Avec sa partition palpitante et son histoire d'amour et d'héroïsme poignante, Aïda revient au Met dans une toute nouvelle production qui téléporte les spectateurs au cœur de l’Égypte antique à l’aide de projections élaborées et d’animations éblouissantes. La soprano Angel Blue, découverte dans Porgy and Bess, incarne le rôle-titre. - Musique : Giuseppe Verdi Mise en scène : Michael Mayer Direction musicale : Yannick Nézet-Séguin Opéra en quatre actes présenté en italien sous-titré en français.",
+        "duration": "3h38",
+        "categories": "Opera",
+        "releaseDate": "25 janv. 2025",
+        "actors": "Angel Blue, Judit Kutasi, Piotr Beczala, Giuseppe Verdi"
+    },
+    {
+        "title": "Fidelio (Metropolitan Opera)",
+        "img": "https://media.pathe.fr/movie/alex/HO00007507/poster/md/11/movie&uuid=F6EB278B-0E5B-4446-970E-797C9ED8560E",
+        "story": "Marcellina rêve d'épouser Fidelio, le nouvel assistant de son père geôlier. Dans la forteresse est enfermé Florestan, que le gouverneur Don Pizarro veut abattre. Il ordonne à Rocco, le père de Marcellina, de creuser une tombe pour le prisonnier. Mais Fidelio, intimement lié à Florestan, est déterminé à empêcher son assassinat. - Le Met propose de découvrir au cinéma l’unique opéra de Beethoven, auquel Jürgen Flimm a offert une production envoûtante. La partition flamboie sous la direction passionnée de Susanna Mälkki, tout comme la superbe distribution portée par Lise Davidsen. - Musique : Ludwig van Beethoven Mise en scène : Jürgen Flimm Direction musicale : Susanna Mälkki Opéra en deux actes présenté en allemand sous-titré en français.",
+        "duration": "3h04",
+        "categories": "Opera",
+        "releaseDate": "15 mars 2025",
+        "actors": "David Butt Philip, Magnus Dietrich, Lise Davidsen, The Metropolitan Opera"
+    },
+    {
+        "title": "Les Noces de Figaro (Metropolitan Opera)",
+        "img": "https://media.pathe.fr/movie/alex/HO00007476/poster/md/12/movie&uuid=5D5BF458-9E8E-4CBC-9246-71FA6AA449F6",
+        "story": "Le valet Figaro et Susanna, la chambière de la comtesse préparent leurs noces. Le comte Almaviva entend bien profiter de son droit de cuissage, ce qui n’enchante guère Figaro. Quant à la comtesse, elle est courtisée par le jeune et romantique Cherubino… Figaro a plus d’un tour dans son sac pour remettre de l’ordre dans ce charivari ! - L’intrigue puissante et divertissante du brillant opéra-bouffe de Mozart en fait l’un des grands favoris du public ! Dans une narration aussi harmonieuse que la partition musicale, l’humour sait faire place à une profonde et juste expression des sentiments. - Musique : Wolfgang Amadeus Mozart Mise en scène : Richard Eyre Direction musicale : Joana Mallwitz Opéra en quatre actes présenté en italien sous-titré en français.",
+        "duration": "3h55",
+        "categories": "Opera",
+        "releaseDate": "26 avr. 2025",
+        "actors": "Olga Kulchynska, Marianne Crebassa, Federica Lombardi, Wolfgang Amadeus Mozart"
+    },
+    {
+        "title": "Salomé (Metropolitan Opera)",
+        "img": "https://media.pathe.fr/movie/alex/HO00007478/poster/md/12/movie&uuid=733B2F6D-0E29-46DA-9EC8-3E80E5AE50FB",
+        "story": "Lorsqu’elle entend la voix du prophète Jokanaan, Salomé s’en éprend immédiatement et tente de le séduire. Il repousse ses avances, elle jure qu’elle baisera sa bouche. Le roi Hérode, fou de Salomé, est prêt à tout pour la satisfaire. - La pièce d’Oscar Wilde a inspiré à Richard Strauss une tragédie cruelle et veloutée dont l’intrigue tient en un seul acte. Le metteur en scène en vogue Claus Guth installe ce récit d’origine biblique à l’époque victorienne, apportant une perspective totalement fraîche à cette œuvre qui a fait basculer l’opéra dans l’ère de la modernité. - Musique : Richard Strauss Mise en scène : Claus Guth Direction musicale : Yannick Nézet-Séguin Opéra en un acte présenté en allemand sous-titré en français.",
+        "duration": "2h15",
+        "categories": "Opera",
+        "releaseDate": "17 mai 2025",
+        "actors": "Michelle DeYoung, Gerhard Siegel, Elza van den Heever, Richard Strauss"
+    },
+    {
+        "title": "Le Barbier de Séville (Metropolitan Opera)",
+        "img": "https://media.pathe.fr/movie/alex/HO00007477/poster/md/12/movie&uuid=85065748-ECC3-4A83-AB91-872C92940262",
+        "story": "Le comte Almaviva est prêt à tout pour séduire Rosina dont il est amoureux. Comme celle-ci est jalousement gardée par son vieux tuteur qui souhaite l’épouser, Almaviva fait appel à son ancien valet, le joyeux barbier Figaro, pour jouer l’entremetteur et l’aider à la conquérir. - Considéré comme la référence de l'opéra-bouffe italien, Le Barbier de Séville est une œuvre de génie qui retranscrit toute l’insolence de la pièce de Beaumarchais dont elle s’inspire. Après avoir interprété une Carmen incandescente au cinéma en janvier 2024, la flamboyante mezzo Aigul Akhmetshina prend les traits de Rosina pour le bouquet final de cette saison ! - Musique : Gioacchino Rossini Mise en scène : Bartlett Sher Direction musicale : Giacomo Sagripanti Opéra en deux actes présenté en italien sous-titré en français.",
+        "duration": "3h33",
+        "categories": "Opera",
+        "releaseDate": "31 mai 2025",
+        "actors": "Jack Swanson, Aigul Akhmetshina, Andrey Zhilikhovsky, Gioacchino Rossini"
+    },
+    {
+        "title": "Gladiator II",
+        "img": "https://media.pathe.fr/movie/alex/HO00007481/poster/md/87/movie&uuid=8C8A2897-61A9-4327-8A05-87BB50B355B1",
+        "story": "L'histoire de Lucius, le fils de Lucilla (Connie Nielsen dans Gladiator) et neveu de Commode (Joaquin Phoenix). Lucius est très admiratif du parcours de Maximus et devrait suivre ses traces.",
+        "duration": "2h30",
+        "categories": "Action/Aventure/Drame",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Paul Mescal, Denzel Washington, Pedro Pascal, Ridley Scott"
+    },
+    {
+        "title": "La Vallée des fous",
+        "img": "https://media.pathe.fr/movie/alex/HO00006995/poster/md/26/movie&uuid=74ACDEC3-FB23-4FD3-8344-DE04DCF8B82B",
+        "story": "Passionné de voile, Jean-Paul traverse une passe difficile. Il accumule les dettes et s’éloigne des siens. Bien décidé à reprendre sa vie en main, il s’inscrit à Virtual Regatta la course virtuelle du Vendée Globe. Il se met dans les conditions d’un vrai skipper en s’isolant pendant 3 mois sur son bateau dans son jardin… Ce voyage pas comme les autres, lui permettra de renouer avec sa famille mais surtout avec lui-même.",
+        "duration": "2h00",
+        "categories": "Drame",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Joseph Olivennes, Jean-Paul Rouve, Pierre Richard, Xavier Beauvois"
+    },
+    {
+        "title": "En tongs au pied de l'Himalaya",
+        "img": "https://media.pathe.fr/movie/alex/HO00007738/poster/md/97/movie&uuid=E42EF754-953B-4B4E-B5CC-63EA9BFD19BB",
+        "story": "Pauline est la maman d’Andréa, 6 ans et demi, un petit garçon formidable à qui on a diagnostiqué un TSA : un « trouble du spectre autistique ». Il n’est pas vraiment au niveau mais il est toujours scolarisé et s’apprête à faire sa rentrée en grande section de maternelle. Pour Pauline, sans revenus fixes et récemment séparée de Fabrice, le père d’Andréa, tout semble concourir à faire de sa vie une succession d’échecs. Or pour Andréa, c’est une année cruciale qui va déterminer s’il peut ou non rester scolarisé et obtenir ainsi une meilleure chance de voir son état s’améliorer. Mais pour cela, Andréa a besoin de stabilité et pour Pauline, la lui apporter, c’est un peu (beaucoup) gravir l’Himalaya en tongs…",
+        "duration": "1h33",
+        "categories": "Comédie/Drame",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Audrey Lamy, Benjamin Tranié, Nicolas Chupin, John Wax"
+    },
+    {
+        "title": "Finalement",
+        "img": "https://media.pathe.fr/movie/alex/HO00007745/poster/md/39/movie&uuid=A91AFEC4-AC8D-4EBA-84A6-8973880279EB",
+        "story": "Dans un monde de plus en plus fou, Lino, qui a décidé de tout plaquer, va se rendre compte que finalement : tout ce qui nous arrive, c’est pour notre bien !",
+        "duration": "2h08",
+        "categories": "Drame/Romance",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Kad Merad, Elsa Zylberstein, Michel Boujenah, Claude Lelouch"
+    },
+    {
+        "title": "Le Royaume",
+        "img": "https://media.pathe.fr/movie/alex/HO00007680/poster/md/40/movie&uuid=CA3E630E-53BC-4228-820F-E97E3956960A",
+        "story": "Corse, 1995. Lesia vit son premier été d’adolescente. Un jour, un homme fait irruption et la conduit à moto dans une villa isolée où elle retrouve son père, en planque, entouré de ses hommes. Une guerre éclate dans le milieu et l’étau se resserre autour du clan. La mort frappe. Commence alors une cavale au cours de laquelle père et fille vont apprendre à se regarder, à se comprendre et à s’aimer.",
+        "duration": "1h51",
+        "categories": "Drame/Thriller",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Anthony Morganti, Andrea Cossu, Alexandre Joannides, Julien Colonna"
+    },
+    {
+        "title": "Une part manquante",
+        "img": "https://media.pathe.fr/movie/alex/HO00007948/poster/md/53/movie&uuid=6587DDED-FC87-4E71-89E5-46F453101093",
+        "story": "Tous les jours, Jay parcourt Tokyo au volant de son taxi à la recherche de sa fille, Lily. Séparé depuis 9 ans, il n’a jamais pu obtenir sa garde. Alors qu’il a cessé d’espérer la revoir et qu’il s’apprête à rentrer en France, Lili entre dans son taxi…",
+        "duration": "1h38",
+        "categories": "Drame",
+        "releaseDate": "13 nov. 2024",
+        "actors": "Judith Chemla, Romain Duris, Mei Cirne-Masuki, Guillaume Senez"
+    },
+    {
+        "title": "La séance Ciné Hits : (500) JOURS ENSEMBLE",
+        "img": "https://media.pathe.fr/movie/alex/HO00008246/poster/md/20/movie&uuid=5C154FF5-F027-4B9A-BF09-0DAEC7B09469",
+        "story": "La séance Ciné Hits : (500) jours ensemble - Jeudi 14 novembre. LES 30 ANS DE SEARCHLIGHT PICTURES - Grâce à la séance Ciné Hits, redécouvrez ce film culte précédé d'un quiz. Synopsis : Tom croit encore en un amour qui transfigure, un amour à la destinée cosmique, un coup de foudre unique. Ce qui n'est pas du tout le cas de Summer. Cela n'empêche pourtant pas Tom de partir à sa conquête, armé de toute sa force et de tout son courage, tel un Don Quichotte des temps modernes. La foudre tombe le premier jour, quand Tom rencontre Summer la nouvelle secrétaire de son patron, une belle jeune fille enjouée. Au 31ème jour, les choses avancent, lentement. Le 32ème jour, Tom est irrémédiablement conquis, pris dans le tourbillon étourdissant d'une vie avec Summer. 185 jours après leur rencontre, la situation est de plus en plus incertaine – mais pas sans espoir. Alors que l'histoire fait des allers-retours au sein de la relation parfois heureuse, mais souvent tumultueuse de Tom et Summer, le récit couvre tout le spectre de la relation amoureuse, du premier coup de coeur aux rendez-vous, du sexe à la séparation, à la récrimination et à la rédemption et décrit toutes les raisons qui nous poussent à nous battre aussi ardemment pour arriver à trouver un sens à l'amour... Et, avec un peu de chance, à en faire une réalité.",
+        "duration": "1h41",
+        "categories": "Comédie/Drame/Romance",
+        "releaseDate": "14 nov. 2024",
+        "actors": "Geoffrey Arend, Zooey Deschanel, Joseph Gordon-Levitt, Marc Webb"
+    },
+    {
+        "title": "Shawn Mendes: For Friends & Family Only (A Live Concert Film)",
+        "img": "https://media.pathe.fr/movie/alex/HO00008536/poster/md/3/movie&uuid=FF0794D4-94F1-4748-85C1-F35F1A827F18",
+        "story": "Avec son concert filmé au théâtre historique de Bearsville à Woodstock, l’auteur compositeur musicien interprète propose un événement totalement exclusif à ses fans. Shawn Mendes : For Friends & Family Only (A Live Concert Film) offre aux fans l’occasion de découvrir son nouvel album en intégralité, juste avant sa sortie. Tout au long du film, Shawn Mendes partage des histoires personnelles et l'inspiration derrière chaque morceau, offrant un regard intime sur son parcours créatif.",
+        "duration": "1h30",
+        "categories": "Concert",
+        "releaseDate": "14 nov. 2024",
+        "actors": "Shawn Mendes, Connor Brashier, , Anthony Wilson"
+    },
+    {
+        "title": "Bhairathi Ranagal",
+        "img": "https://media.pathe.fr/movie/alex/HO00008616/poster/md/3/movie&uuid=4F63E786-FC3F-4533-AAB5-818786532E9F",
+        "story": "Le film explore le passé du gangster Bhairathi Ranagal, arrêté par Gana, un policier infiltré.",
+        "duration": "2h30",
+        "categories": "Action/Thriller",
+        "releaseDate": "15 Nov 2024",
+        "actors": ""
+    },
+    {
+        "title": "Les Rendez-vous de l'Animé : OVERLORD The Sacred Kingdom",
+        "img": "https://media.pathe.fr/movie/alex/HO00008571/poster/md/2/movie&uuid=521E30CA-17E9-4179-AAB0-051FB3871CF7",
+        "story": "Grâce aux Rendez-vous de l’animé, découvrez le film OVERLORD : The Sacred Kingdom. Synopsis : Pour se protéger des invasions extérieures, le Royaume Sacré a érigé une muraille imprenable, sans imaginer que cette quiétude apparente serait ébranlée par l’armée du démon Jaldabaoth. Refusant de se soumettre à l’ennemi, les dirigeants du pays sollicitent le célèbre sorcier Ainz Ooal Gown afin qu’il leur prête main-forte.",
+        "duration": "2h15",
+        "categories": "Animation",
+        "releaseDate": "16 nov. 2024",
+        "actors": ""
+    },
+    {
+        "title": "OVERLORD: The Sacred Kingdom",
+        "img": "https://media.pathe.fr/movie/alex/HO00008334/poster/md/14/movie&uuid=ABC5601C-5F1C-4979-AEE4-C1EC51C7C88A",
+        "story": "Le cruel et impitoyable Jaldabaoth, à la tête d’une puissante armée composée de demi-humains, décide de prendre d’assaut et d’envahir le Saint Royaume de Roble. Incapable de défendre leurs sujets d’eux-mêmes, les dirigeants du pays demandent l’aide du Roi Sorcier Ainz Ooal Gown, pourtant l’un de leurs pires ennemis, dans l’espoir que ce dernier accepte de leur prêter main forte. Suite aux multiples requêtes de l’armée de libération, qui souhaite par-dessus tout secourir les citoyens assaillis, le Roi des Ténèbres accepte de prendre le commandement du Saint Royaume et part donc en croisade face à l’Empereur Démon.",
+        "duration": "2h15",
+        "categories": "Action/Animation/Aventure",
+        "releaseDate": "16 nov. 2024",
+        "actors": "Masayuki Katô, Asami Seto, Satoshi Hino, Naoyuki Itô"
+    },
+    {
+        "title": "Andrea Bocelli 30: The Celebration",
+        "img": "https://media.pathe.fr/movie/alex/HO00008451/poster/md/3/movie&uuid=B1C87774-AB0E-4E70-9B1A-1823DC4FA079",
+        "story": "Le ténor italien Andrea Bocelli honore son 30ème anniversaire avec le film de son concert qu’il a donné dans sa ville natale, au Teatro del Silenzio, un amphithéâtre naturel au milieu des collines toscanes. Le vaste répertoire bien-aimé du Maestro est notamment mis en valeur par des duos avec une distribution sans précédent de superstars mondiales, dont Ed Sheeran, Shania Twain, Jon Batiste, Brian May, Sofia Vergara, David Foster & Katharine McPhee, Matteo Bocelli, Sofia Carson, Lauren Daigle, Eros Ramazzotti, et plus encore, ainsi que des apparitions spéciales de Kim et Khloe Kardashian. Avec une mise en scène, une production et des visuels extraordinaires, dans un paysage à couper le souffle, la carrière sensationnelle d'Andrea Bocelli prend vie dans une expérience inoubliable.",
+        "duration": "2h30",
+        "categories": "Documentaire",
+        "releaseDate": "17 nov. 2024",
+        "actors": "Andrea Bocelli, Sam Wrench"
+    },
+    {
+        "title": "La Séance live : Finalement",
+        "img": "https://media.pathe.fr/movie/alex/HO00008506/poster/md/6/movie&uuid=1C1BD036-C4A1-41C2-AB60-531D4FD4A0D2",
+        "story": "Découvrez notre nouveau rendez-vous : La Séance Live, consacrée mardi 19 novembre au film « Finalement » ! Avant premiere accompagnée d'une rencontre avec l'équipe du film, au Pathé Convention. Synopsis : Dans un monde de plus en plus fou, Lino, qui a décidé de tout plaquer, va se rendre compte que finalement : tout ce qui nous arrive, c’est pour notre bien !",
+        "duration": "2h08",
+        "categories": "Comédie dramatique/Musical/Romance",
+        "releaseDate": "19 nov. 2024",
+        "actors": "Kad Merad, Elsa Zylberstein, Michel Boujenah, Claude Lelouch"
+    },
+    {
+        "title": "Les Rendez-vous de l'Animé : Trapezium",
+        "img": "https://media.pathe.fr/movie/alex/HO00008399/poster/md/14/movie&uuid=AB25C21C-F7A0-4AA0-84AE-53C4FFAB5888",
+        "story": "Grâce aux Rendez-vous de l’animé, découvrez le film Trapezium. Synopsis : Une lycéenne déterminée à devenir une idole fait face à des obstacles pour poursuivre son rêve. En chemin, elle se lie d’amitié avec des étoiles en herbe de toutes les directions, apprenant ce que signifie vraiment son ambition brillante...",
+        "duration": "1h35",
+        "categories": "Animation",
+        "releaseDate": "19 nov. 2024",
+        "actors": "Hina Kino, Asaki Yuikawa, Haruka Aikawa, Masahiro Shinohara"
+    },
+    {
+        "title": "37 : l'ombre et la proie",
+        "img": "https://media.pathe.fr/movie/alex/HO00007909/poster/md/34/movie&uuid=C58531BC-57B7-4933-8CFB-14F1D9727462",
+        "story": "Vincent, chauffeur-routier, prend en stop une jeune femme qui prétend s’appeler Trente-Sept. Très vite, son comportement étrange éveille les soupçons du routier. Mais Vincent lui-même n’est peut-être pas aussi innocent qu’il n’y paraît... Entre le chauffeur et sa passagère s’engage alors un jeu diabolique qui va bientôt devenir totalement hors de contrôle.",
+        "duration": "1h33",
+        "categories": "Drame/Thriller",
+        "releaseDate": "20 nov. 2024",
+        "actors": "Melodie Wakivuamina, Guillaume Pottier, Arthur Môlard"
+    },
+    {
+        "title": "La Plus Précieuse Des Marchandises",
+        "img": "https://media.pathe.fr/movie/alex/HO00007310/poster/md/30/movie&uuid=2C35ED80-A3DF-4EAC-8326-CF10FA5365FB",
+        "story": "Il était une fois, dans un grand bois, un pauvre bûcheron et une pauvre bûcheronne. Le froid, la faim, la misère, et partout autour d´eux la guerre, leur rendaient la vie bien difficile. Un jour, pauvre bûcheronne recueille un bébé. Un bébé jeté d’un des nombreux trains qui traversent sans cesse leur bois. Protégée quoi qu’il en coûte, ce bébé, cette petite marchandise va bouleverser la vie de cette femme, de son mari , et de tous ceux qui vont croiser son destin, jusqu’à l’homme qui l’a jeté du train. Leur histoire va révéler le pire comme le meilleur du cœur des hommes.",
+        "duration": "1h21",
+        "categories": "Animation/Drame",
+        "releaseDate": "20 nov. 2024",
+        "actors": "Denis Podalydès, Dominique Blanc, Jean-Louis Trintignant, Michel Hazanavicius"
+    },
+    {
+        "title": "La Séance live : La Plus Précieuse Des Marchandises",
+        "img": "https://media.pathe.fr/movie/alex/HO00008502/poster/md/3/movie&uuid=1363FDFC-B6A7-48B8-AC87-586D0AC6B1A9",
+        "story": "Découvrez notre nouveau rendez-vous : La Séance Live, consacrée mercredi 20 novembre au film « La plus précieuse des marchandises » ! En présence de l'équipe du film, au Pathé Convention. Synopsis : Il était une fois, dans un grand bois, un pauvre bûcheron et une pauvre bûcheronne. Le froid, la faim, la misère, et partout autour d´eux la guerre, leur rendaient la vie bien difficile. Un jour, pauvre bûcheronne recueille un bébé. Un bébé jeté d’un des nombreux trains qui traversent sans cesse leur bois. Protégée quoi qu’il en coûte, ce bébé, cette petite marchandise va bouleverser la vie de cette femme, de son mari , et de tous ceux qui vont croiser son destin, jusqu’à l’homme qui l’a jeté du train. Leur histoire va révéler le pire comme le meilleur du cœur des hommes.",
+        "duration": "1h21",
+        "categories": "Animation/Drame/Historique",
+        "releaseDate": "20 nov. 2024",
+        "actors": "Jean-Louis Trintignant, Dominique Blanc, Denis Podalydès, Michel Hazanavicius"
+    },
+    {
+        "title": "Le choix",
+        "img": "https://media.pathe.fr/movie/alex/HO00008290/poster/md/22/movie&uuid=4B9A17A2-5DC4-4D85-9C05-F95CA035F2A4",
+        "story": "Joseph Cross ressemble à son métier. Solide comme du béton. Marié, deux enfants, son existence est parfaitement organisée. Pourtant cette nuit, seul au volant, il doit prendre une décision qui peut ruiner sa vie.",
+        "duration": "1h17",
+        "categories": "Drame",
+        "releaseDate": "20 nov. 2024",
+        "actors": "Vincent Lindon, Gilles Bourdos"
+    },
+    {
+        "title": "Le Panache",
+        "img": "https://media.pathe.fr/movie/alex/HO00007579/poster/md/23/movie&uuid=79C0B38D-DFF6-4244-A662-15CD4FAFD681",
+        "story": "Colin, 14 ans, fait son entrée dans un nouveau collège et il flippe : comment s’en sortir quand, comme lui, on est bègue ? Sa rencontre avec Monsieur Devarseau, charismatique prof de français, va le pousser à affronter ses peurs et sortir de son isolement. Maintenant Colin a une bande de copains et un projet : monter sur scène pour jouer Cyrano devant toute l’école.",
+        "duration": "1h33",
+        "categories": "Comédie/Drame",
+        "releaseDate": "20 nov. 2024",
+        "actors": "José Garcia, Aure Atika, Joachim Arseguel, Jennifer Devoldère"
+    },
+    {
+        "title": "Les tempêtes",
+        "img": "https://media.pathe.fr/movie/alex/HO00008325/poster/md/30/movie&uuid=856D5D16-73A4-4313-A087-5FD7A7567CE7",
+        "story": "D’étranges tempêtes de poussière jaune s’abattent sur la ville. Nacer, journaliste, couvre le phénomène pour son journal. Alors que les évènements inexpliqués se multiplient, sa femme Fajar réapparaît. Face à des vents de plus en plus menaçants et tandis que la ville semble sombrer dans la folie, Nacer devra dénouer un passé qui le hante.",
+        "duration": "1h24",
+        "categories": "Drame/Fantastique",
+        "releaseDate": "20 nov. 2024",
+        "actors": "Camélia Jordana, Shirine Boutella, Mehdi Ramdani, Dania Raymond-Boughenou"
+    },
+    {
+        "title": "Ma mini-séance : MacPat le chat chanteur",
+        "img": "https://media.pathe.fr/movie/alex/HO00008372/poster/md/3/movie&uuid=F14B785F-7D6D-44C0-A96D-149D24BB7272",
+        "story": "\"Ma Mini-séance\", le rendez-vous pensé pour le bien-être des tout-petits : films courts, son optimisé, lumière tamisée... Découvrez « MacPat le chat chanteur » Un programme qui met à l’honneur nos amis les chats ! En plein cœur de Londres, Paddy MacPat et Fred, son ami musicien forment un duo mélodieux pour le plus grand plaisir des passants jusqu’au jour où ils sont séparés.",
+        "duration": "40min",
+        "categories": "Animation/Famille",
+        "releaseDate": "20 nov. 2024",
+        "actors": ""
+    },
+    {
+        "title": "Piece By Piece",
+        "img": "https://media.pathe.fr/movie/alex/HO00007336/poster/md/13/movie&uuid=A6CA0BA5-CD59-4507-912D-260B1233ACF6",
+        "story": "PIECE BY PIECE est une expérience cinématographique unique qui invite le public à voyager à travers la vie d'une icône culturelle : Pharrell Williams. Laissez libre court à votre imagination et découvrez l'évolution de l'un des esprits les plus novateurs du monde de la musique racontée à travers l'animation LEGO®.",
+        "duration": "1h33",
+        "categories": "Documentaire",
+        "releaseDate": "20 nov 2024",
+        "actors": "Pharrell Williams, Morgan Neville"
+    },
+    {
+        "title": "Prodigieuses",
+        "img": "https://media.pathe.fr/movie/alex/HO00006939/poster/md/63/movie&uuid=0DB91C9C-80B4-4565-B371-C5E1E19DBE4C",
+        "story": "Claire et Jeanne, jumelles pianistes virtuoses, sont admises dans une prestigieuse université de musique dirigée par l’intraitable professeur Klaus Lenhardt. Elles portent ainsi l’ambition de leur père qui a tout sacrifié pour faire d’elles les meilleures. Mais, une maladie orpheline, fragilise peu à peu leurs mains, et compromet brusquement leur ascension. Refusant de renoncer à leur rêve, elles vont devoir se battre et se réinventer pour devenir, plus que jamais, prodigieuses. D’après une histoire vraie.",
+        "duration": "1h47",
+        "categories": "Biopic/Drame",
+        "releaseDate": "20 nov. 2024",
+        "actors": "Camille Razat, Mélanie Robert, Franck Dubosc, Frédéric Potier, , Valentin Potier"
+    },
+    {
+        "title": "Les Rendez-vous de l'Animé : Hayao Miyazaki et le Héron",
+        "img": "https://media.pathe.fr/movie/alex/HO00008576/poster/md/2/movie&uuid=FE56D5CE-7D92-4797-87D8-2085905BDAB9",
+        "story": "Grâce aux Rendez-vous de l’animé, découvrez le documentaire \"Hayao Miyazaki et le Héron\". Synopsis : Hayao Miyazaki et le Héron est un documentaire de deux heures qui retrace le tournage du Garçon et le héron, filmé avec un accès exclusif au Studio Ghibli sur une période étonnante de sept ans. C’est aussi un témoignage de la collaboration entre le cinéaste Hayao Miyazaki et le producteur Toshio Suzuki, qui se livrent à une danse complexe de tromperie et d’amitié, à l’image de Mahito et le Héron, tandis que Suzuki pousse Miyazaki à aller toujours plus loin dans sa créativité, pour finalement accoucher d’un chef-d’œuvre sans précédent.",
+        "duration": "2h00",
+        "categories": "Documentaire",
+        "releaseDate": "21 nov. 2024",
+        "actors": "Hayao Miyazaki, Toshio Suzuki, Kaku Arakawa"
+    },
+    {
+        "title": "Tosca (Metropolitan Opera)",
+        "img": "https://media.pathe.fr/movie/alex/HO00007475/poster/md/12/movie&uuid=3073754C-D738-4EE8-8B0E-2571EB0022E0",
+        "story": "Angelotti s’est enfui de son lieu de détention et va trouver de l’aide auprès de son ami le peintre Cavaradossi. Le baron Scarpia, chef de la police, se doutant de la complicité du peintre, manipule son amante Floria Tosca en tirant profit de sa jalousie. Il use d’un chantage odieux qui oblige la jeune femme à faire un sacrifice auquel elle ne saurait consentir. - Art et amour, politique et complots : Tosca est un pilier du répertoire qui tient son audience en haleine du début à la fin ! Aperçue au cinéma dans Ariane à Naxos de Stauss et La Force du destin de Verdi, la désormais incontournable norvégienne Lise Davidsen incarne l’héroïne jalouse et tourmentée de Puccini. - Musique : Giacomo Puccini Mise en scène : David McVicar Direction musicale : Xian Chang Opéra en trois actes présenté en italien sous-titré en français.",
+        "duration": "3h28",
+        "categories": "Opera",
+        "releaseDate": "23 nov. 2024",
+        "actors": "Freddie De Tommaso, Quinn Kelsey, Lise Davidsen, Giacomo Puccini"
+    },
+    {
+        "title": "En fanfare",
+        "img": "https://media.pathe.fr/movie/alex/HO00007694/poster/md/22/movie&uuid=96D5D7A5-2A93-481D-A2B9-BD442B46A666",
+        "story": "Thibaut est un chef d’orchestre de renommée internationale qui parcourt le monde. Lorsqu'il apprend qu'il a été adopté, il découvre l'existence d'un frère, Jimmy, employé de cantine scolaire et qui joue du trombone dans une fanfare du nord de la France. En apparence tout les sépare, sauf l'amour de la musique. Détectant les capacités musicales exceptionnelles de son frère, Thibaut se donne pour mission de réparer l’injustice du destin. Jimmy se prend alors à rêver d’une autre vie…",
+        "duration": "1h43",
+        "categories": "Comédie dramatique",
+        "releaseDate": "27 nov. 2024",
+        "actors": "Benjamin Lavernhe, Anne Loiret, Antonin Artaud, Emmanuel Courcol"
+    },
+    {
+        "title": "Le Grand Noël des animaux",
+        "img": "https://media.pathe.fr/movie/alex/HO00004367/poster/md/28/movie&uuid=B3CCBA6D-BA1F-42D5-832F-9CEF7C63F2B0",
+        "story": "Noël approche et l’impatience grandit dans la forêt : tout le monde s’apprête à vivre un moment féérique au cœur de l’hiver… Mais, catastrophe, il faut sauver le traineau du père Noël ! C’est une mission pour nos ami·es renarde et cigogne, tandis qu’une toute petite poussine va tout faire pour sauver la grande fête du poulailler. Et la jeune lynx arrivera-t-elle à temps pour vivre le grand spectacle magique en haut de la montagne ? Aux quatre coins du monde, Noël réserve de merveilleuses surprises…",
+        "duration": "1h08",
+        "categories": "Animation",
+        "releaseDate": "27 nov. 2024",
+        "actors": ""
+    },
+    {
+        "title": "Heretic",
+        "img": "https://media.pathe.fr/movie/alex/HO00007997/poster/md/26/movie&uuid=3EC21F1B-6597-489A-9EE2-84BB921183FB",
+        "story": "Deux jeunes missionnaires de l'église mormone d'une petite ville du Colorado font du porte à porte dans l'espoir de convertir les habitants. Le soir venu, après une journée infructueuse, elles décident de frapper à la porte d'une maison isolée. C'est le charmant Mr Reed (Hugh Grant) qui les y accueille. Mais très vite, les jeunes femmes réalisent qu’elles sont tombées dans un piège. La maison est un véritable labyrinthe où elles ne pourront compter que sur leur ingéniosité et leur intelligence pour rester en vie...",
+        "duration": "1h50",
+        "categories": "Epouvante-horreur/Thriller",
+        "releaseDate": "27 nov. 2024",
+        "actors": "Hugh Grant, Sophie Thatcher, Chloe East, Scott Beck, , Bryan Woods"
+    },
+    {
+        "title": "Les Boules de Noël",
+        "img": "https://media.pathe.fr/movie/alex/HO00007910/poster/md/17/movie&uuid=5103764D-7D9D-4EEF-B835-DBD7DC948AD8",
+        "story": "Pour la famille de Nathalie et Antonin, chaque année, le réveillon de Noël vire au cauchemar. Convaincue qu’elle est victime d’une malédiction, Nathalie prend une décision radicale : cette année on ne le fêtera pas ! Mais c’est sans compter sur Antonin et ses enfants qui décident de reprendre les choses en mains en invitant Nicole, la sœur de Nathalie qu’elle a perdue de vue. Entre les rivalités latentes et les frustrations accumulées, ce réveillon va devenir le plus cruel et le plus explosif de tous !",
+        "duration": "1h28",
+        "categories": "Comédie",
+        "releaseDate": "27 nov. 2024",
+        "actors": "Kad Merad, Noémie Lvovsky, Valérie Bonneton, Alexandra Leclère"
+    },
+    {
+        "title": "Les Reines du drame",
+        "img": "https://media.pathe.fr/movie/alex/HO00007863/poster/md/3/movie&uuid=5F3B9AA4-1269-4BA4-9425-F6358CCE4298",
+        "story": "2055. Steevyshady, youtubeur hyper botoxé raconte le destin incandescent de son idole, la diva pop Mimi Madamour, du top de sa gloire en 2005 à sa descente aux enfers, précipitée par son histoire d’amour avec l'icône punk Billie Kohler. Pendant un demi-siècle, ces reines du drame ont chanté leur passion et leur rage sous le feu des projecteurs.",
+        "duration": "1h55",
+        "categories": "Comédie/Drame",
+        "releaseDate": "27 nov. 2024",
+        "actors": "Ventura, Louiza Aura, Bilal Hassani, Alexis Langlois"
+    }
+]
