@@ -17,4 +17,7 @@
 .grey-txt{
     color: #8F98B2;
 }
+.gred-bg{
+    background-image: linear-gradient(to right,#0F1014,#590B0B);
+}
 

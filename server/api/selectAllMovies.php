@@ -1,6 +1,6 @@
 <?php
 
-include("db-connection.php");
+include("connection.php");
 
 
 

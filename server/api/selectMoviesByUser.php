@@ -2,7 +2,7 @@
 
 include("connection.php");
 
-$id = $_POST["id"];
+$users_id = $_POST["users_id"];
 
 $query = $connection->prepare("SELECT * FROM movies where id = ?");
 $query->bind_param('i',$id);

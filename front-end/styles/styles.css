@@ -400,10 +400,13 @@ body {
 }
 
 /* ============================================== */
-
+.main-details{
+    height: auto;
+    width: 100%;
+}
 .movieDetails{
     width: 900px;
-    height: 600px;
+    height: auto;
     margin: 50px;
     text-align: center;
     justify-content: center;
