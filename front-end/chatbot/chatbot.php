@@ -21,6 +21,10 @@ if (!$data || !isset($data["messages"])) {
 $requestPayload = file_get_contents("php://input");
 $data = json_decode($requestPayload, true);
 
+if (!isset($data["messages"]) || !is_array($data["messages"])) {
+    echo json_encode(["error" => "Invalid request. 'messages' array is required."]);
+    exit;
+}
 
 
 
