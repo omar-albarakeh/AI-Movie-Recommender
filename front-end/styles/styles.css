@@ -165,5 +165,20 @@
 
 /* ============================================== */
 
-
+.movieDetails{
+    width: 900px;
+    height: 600px;
+    margin: 50px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.detail-subtitle{
+    gap: 15px;
+}
+.detail-story{
+    word-spacing: 1px;
+    font-size: 18px;
+}
 /* ============================================== */
