@@ -66,7 +66,7 @@
 
 .card-stars{
     padding-left: 15px;
-    gap: 5px;
+    gap: 9px;
 }
 
 .star{
@@ -79,7 +79,7 @@
 }
 .card-bookmark>img{
     width: 25px;
-    height: 25px;  
+    height: 30px;  
 }
 /* ============================================== */
 
