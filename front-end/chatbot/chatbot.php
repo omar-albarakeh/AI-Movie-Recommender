@@ -8,8 +8,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     http_response_code(204);
     exit;
 }
-$apiKey = "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";
 
+$apiKey = "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";
 
 $requestPayload = file_get_contents("php://input");
 $data = json_decode($requestPayload, true);
@@ -18,6 +18,8 @@ if (!$data || !isset($data["messages"])) {
     echo json_encode(["error" => "Invalid request. 'messages' is required."]);
     exit;
 }
+
+
 $requestPayload = file_get_contents("php://input");
 $data = json_decode($requestPayload, true);
 
@@ -47,6 +49,7 @@ if ($response === false) {
     curl_close($ch);
     exit;
 }
+
 curl_close($ch);
 echo $response;
 ?>
