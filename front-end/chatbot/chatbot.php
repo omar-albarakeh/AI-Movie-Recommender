@@ -26,6 +26,11 @@ if (!isset($data["messages"]) || !is_array($data["messages"])) {
     exit;
 }
 
+$postData = json_encode([
+    "model" => "gpt-3.5-turbo",
+    "messages" => $data["messages"],
+    "max_tokens" => 550
+]);
 
 
 
