@@ -32,6 +32,13 @@ $postData = json_encode([
     "max_tokens" => 550
 ]);
 
-
+$ch = curl_init("https://api.openai.com/v1/chat/completions");
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_HTTPHEADER, [
+    "Content-Type: application/json",
+    "Authorization: Bearer " . $apiKey
+]);
+curl_setopt($ch, CURLOPT_POST, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $postData);
 
 ?>
