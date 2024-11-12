@@ -17,7 +17,7 @@ const moviesHTML  = (movies) =>{
                         <img class="star" src="./assets/unfilledStar.png" alt="">
                     </div>
                     <div class="card-bookmark">
-                        <img src="./assets/unfilledBookmark.png" alt="">
+                        <img class="bookmark-icon" src="./assets/unfilledBookmark.png" alt="">
                     </div>
                 </div>
             </div>

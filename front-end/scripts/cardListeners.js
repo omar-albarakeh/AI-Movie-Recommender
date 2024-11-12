@@ -7,3 +7,13 @@ document.addEventListener("click",async (event)=>{
     window.location.href = `./pages/movieDetails.html?movie_id=${movieId}`;
     
 })
+
+// bookmark listeners
+document.addEventListener("click",async (event)=>{
+    if (!event.target.classList.contains("bookmark-icon"))
+        return
+    let movieId = event.target.parentElement.parentElement.parentElement.getAttribute("id");
+    
+    addBookmark(movieId)
+    
+})
