@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+/* ============================================== */
+.movies-container{
+    width: 100%;
+    height: 130vh;
+    padding: 35px 70px ;
+}
+
+.movies-header{
+    width: 100%;
+    height: 10%;
+    gap: 10px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.movies-title{
+    font-size: 32px;
+}
+.movies-cards{
+    width: 100%;
+    height: 90%;
+    gap: 30px;
+    flex-wrap: wrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+.movie-card{
+    width: 225px;
+    height: 350px;
+    flex-shrink: 0;
+
+}
+.movie-card img:hover{
+    opacity: 0.8;
+    cursor: pointer;
+
+}
+.card-image{
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    
+    }
+.card-footer{
+    width: 100%;
+    height: 30%;
+}
+.card-image>img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.card-footer{
+    align-items: center;
+    justify-content: space-between;
+    padding: 3px;
+}
+
+.card-stars{
+    padding-left: 15px;
+    gap: 9px;
+}
+
+.star{
+    color: white;
+    width: 15px;
+    height: 15px;
+}
+.card-bookmark{
+    padding-right: 20px;
+}
+.card-bookmark>img{
+    width: 25px;
+    height: 30px;  
+}
+/* ============================================== */
+
+.recommendations-container{
+    width: 100%;
+    height: 115vh;
+    padding: 40px;
+}
+.recomm-header{
+    padding: 30px;
+    text-align: center;
+    width: 600px;
+    height: 215px;
+    gap: 15px;
+}
+.recomm-title{
+    font-size: 38px;
+}
+.recomm-subtitle{
+    font-size: 18px;
+    line-height: 1.3;
+}
+.recomm-cards{
+    align-items: center;
+    width: 100%;
+    height: 440px;
+    overflow-x: scroll;
+    gap: 40px;
+    padding-left: 30px;
+}
+
+.recomm-cards>div:hover{
+    transform: scale(1.25);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* ============================================== */
+.about-container{
+    width: 100%;
+    height: 100vh;
+    padding: 70px;
+}
+.about-header{
+    width: 100%;
+    height: 15%;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 80px;
+}
+
+.about-cards{
+    width: 100%;
+    height: 50%;
+    justify-content: space-around;
+    align-items: center;
+    gap: 40px;
+}
+.card-icon{
+    border-radius: 50%;
+    width: 166px;
+    height: 166px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+}
+.card-icon>img{
+    width: 119px;
+    height: 119px;
+
+}
+.about-card{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+}
+
+.about-card>p{
+    width: 330px;
+}
+
+/* ============================================== */
+
+.movieDetails{
+    width: 900px;
+    height: 600px;
+    margin: 50px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.detail-subtitle{
+    gap: 15px;
+}
+.detail-story{
+    word-spacing: 1px;
+    font-size: 18px;
+}
+/* ============================================== */
