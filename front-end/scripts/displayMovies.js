@@ -6,7 +6,7 @@ const moviesHTML  = (movies) =>{
         movies_cards.innerHTML+=
         `   <div class="flex column movie-card" id="${movie.id}">
                 <div class="card-img">
-                    <img src='${movie.image}' alt="">
+                    <img class="movie_image" src='${movie.image}' alt="">
                 </div>
                 <div class="flex row card-footer primary-bg">
                     <div class="flex row card-stars">
@@ -30,7 +30,6 @@ const getMovies = () => {
     axios.get("http://localhost:8080/AI-Movie-Recommender/server/api/selectAllMovies.php")
       .then((response) => {
         let movies = response.data
-        console.log(movies)
         moviesHTML(movies)
       })
       .catch((error) => {
