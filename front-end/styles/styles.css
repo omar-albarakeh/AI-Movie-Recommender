@@ -27,6 +27,7 @@
     gap: 30px;
     flex-wrap: wrap;
     overflow-x: scroll;
+    overflow-y: hidden;
 }
 
 ::-webkit-scrollbar {
@@ -38,10 +39,10 @@
     flex-shrink: 0;
 
 }
-.movie-card:hover{
+.movie-card img:hover{
     opacity: 0.8;
     cursor: pointer;
-    
+
 }
 .card-image{
     overflow: hidden;
@@ -66,7 +67,7 @@
 
 .card-stars{
     padding-left: 15px;
-    gap: 5px;
+    gap: 9px;
 }
 
 .star{
@@ -79,7 +80,7 @@
 }
 .card-bookmark>img{
     width: 25px;
-    height: 25px;  
+    height: 30px;  
 }
 /* ============================================== */
 
@@ -162,4 +163,22 @@
     width: 330px;
 }
 
+/* ============================================== */
+
+.movieDetails{
+    width: 900px;
+    height: 600px;
+    margin: 50px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.detail-subtitle{
+    gap: 15px;
+}
+.detail-story{
+    word-spacing: 1px;
+    font-size: 18px;
+}
 /* ============================================== */

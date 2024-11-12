@@ -31,7 +31,7 @@ foreach ($data as $item) {
     
     
     $query = $connection->prepare("INSERT INTO movies (image,title,duration,categories,releaseDate,actors,story) VALUES (?,?,?,?,?,?,?)");
-    $query->bind_param('sssssss',$title,$img,$duration,$categories,$release,$actors,$story);
+    $query->bind_param('sssssss',$img,$title,$duration,$categories,$release,$actors,$story);
     
     $query->execute();
 }
