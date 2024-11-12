@@ -1,28 +1,32 @@
 <?php
-
 include "../db_connection.php";
+$username = $_POST['username'];
+$password = $_POST['password'];
 
-$input = json_decode(file_get_contents("php://input"), true);
-$username = $input['username'] ?? '';
-$password = $input['password'] ?? '';
+$query = $connection->prepare("SELECT * FROM users WHERE username = ?");
+$query->bind_param("s", $username);
+$query->execute();
 
-$stmt = $connection->prepare("SELECT * FROM users WHERE username = ?");
-$stmt->bind_param("s", $username);
-$stmt->execute();
-$result = $stmt->get_result();
+$result = $query->get_result();
 
-if ($result->num_rows === 1) {
-    $user = $result->fetch_assoc(); 
-
-    if (password_verify($password, $user['password'])) { 
-        echo json_encode(["success" => true, "message" => "Login successful."]);
+if ($result->num_rows != 0) {
+    $user = $result->fetch_assoc();
+    if (password_verify($password, $user['password'])) {
+        http_response_code(200);
+        echo json_encode([
+            "status" => "Login Successful",
+            "user" => $user,
+        ]);
     } else {
-        echo json_encode(["success" => false, "message" => "Invalid password."]);
+        http_response_code(400);
+        echo json_encode([
+            "status" => "Invalid Credentials",
+        ]);
     }
 } else {
-    echo json_encode(["success" => false, "message" => "User  not found."]);
+    http_response_code(400);
+    echo json_encode([
+        "status" => "Invalid Credentials",
+    ]);
 }
-
-$stmt->close();
-$connection->close();
 ?>
