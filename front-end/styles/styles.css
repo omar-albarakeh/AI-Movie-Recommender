@@ -95,4 +95,18 @@
     font-size: 18px;
     line-height: 1.3;
 }
+.recomm-cards{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 440px;
+    overflow-x: scroll;
+    gap: 40px;
+}
+
+.recomm-cards>div:hover{
+    transform: scale(1.25);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
 /* ============================================== */
