@@ -17,7 +17,7 @@ foreach ($data as $item) {
     
     $title=$item['title'];
     
-    $img=$item['img'];
+    $img=$item['image'];
     
     $duration=$item['duration'];
     
