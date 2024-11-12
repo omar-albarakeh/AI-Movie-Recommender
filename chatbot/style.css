@@ -10,7 +10,7 @@ body {
     align-items: center;
     min-height: 100vh;
     font-family: Georgia, serif;
-    background-color: rgb(114, 0, 0);
+    background-color: rgb(172, 116, 116);
 }
 
 .container {
@@ -98,14 +98,14 @@ body {
 }
 
 .bot-message {
-    background-color: #a7fd98;
+    background-color: #b96767;
     color: #080202;
     align-self: flex-start;
 }
 
 .user-message {
     background-color: #078e9a;
-    color: #000000;
+    color: #d6caca;
     align-self: flex-end;
 }
 

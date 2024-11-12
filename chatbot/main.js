@@ -3,8 +3,13 @@ const userInput = document.getElementById("input-text");
 const sendBtn = document.getElementById("send-btn");
 
 let messages = [
-    { role: "system", content: "You are a friendly and helpful assistant who remembers user preferences." }
+    {
+        role: "system",
+        content: "You are a friendly and knowledgeable assistant specializing in movies. You answer questions about movies, summarize movie plots"
+        +" and give personalized movie recommendations based on user preferences. You may also ask predefined questions to understand the user's movie interests better."
+    }
 ];
+
 
 function displayMessage(role, text) {
 
@@ -64,7 +69,7 @@ async function sendMessage() {
 }
 
 setTimeout(() => {
-    displayMessage("bot", "Hi! How can I help you with movies today?");
+    displayMessage("bot", "Hi! How can I help you ");
 }, 1000);
 
 userInput.addEventListener('input', toggleButtonState);
