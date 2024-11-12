@@ -18,6 +18,8 @@ if (!$data || !isset($data["messages"])) {
     echo json_encode(["error" => "Invalid request. 'messages' is required."]);
     exit;
 }
+$requestPayload = file_get_contents("php://input");
+$data = json_decode($requestPayload, true);
 
 
 
