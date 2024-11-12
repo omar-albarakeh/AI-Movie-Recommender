@@ -53,3 +53,11 @@ async function sendMessage() {
 setTimeout(() => {
     displayMessage("assistant", "Hi! How can I help you with movies today?");
 }, 1000);
+
+sendBtn.addEventListener('click', sendMessage);
+userInput.addEventListener("keypress", function(event) {
+    if (event.key === "Enter" && !event.shiftKey) {
+        event.preventDefault();
+        sendMessage();
+    }
+});
