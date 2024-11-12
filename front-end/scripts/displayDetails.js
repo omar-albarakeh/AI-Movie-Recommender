@@ -6,7 +6,7 @@ const detailsHTML  = (movies) =>{
     movies_cards.innerHTML+=
     `   <div class="flex column movieDetails white-txt">
             <div class="detail-title">
-                <h1>${movies.titles}</h1>
+                <h1>${movies.title}</h1>
             </div>
             <div class="flex row detail-subtitle grey-txt">
                 <p>${movies.categories}</p>
@@ -41,5 +41,5 @@ const getMovies = async (movie_id) => {
     detailsHTML(movies)
 
   };
-  
-  getMovies(movieId)
+const movieId = new URLSearchParams(window.location.search).get("movie_id");
+getMovies(movieId)

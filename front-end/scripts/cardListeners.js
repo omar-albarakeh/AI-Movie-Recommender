@@ -5,5 +5,5 @@ document.addEventListener("click",async (event)=>{
     let movieId = event.target.parentElement.parentElement.getAttribute("id");
     
     window.location.href = `./pages/movieDetails.html?movie_id=${movieId}`;
-    getMovies(movieId)
+    
 })
