@@ -1,9 +1,9 @@
 const moviesHTML  = (movies) =>{
-    let data_info_element=document.getElementById("movies-cards")
+    let movies_cards=document.getElementById("movies-cards")
     
-    data_info_element.innerHTML=""
+    movies_cards.innerHTML=""
     movies.forEach(movie =>{
-        data_info_element.innerHTML+=
+        movies_cards.innerHTML+=
         `   <div class="flex column movie-card" id="${movie.id}">
                 <div class="card-img">
                     <img src='${movie.image}' alt="">
@@ -25,3 +25,17 @@ const moviesHTML  = (movies) =>{
     } )
 }
 
+const getMovies = () => {
+  
+    axios.get("http://localhost:8080/AI-Movie-Recommender/server/api/selectAllMovies.php")
+      .then((response) => {
+        let movies = response.data
+        console.log(movies)
+        moviesHTML(movies)
+      })
+      .catch((error) => {
+        console.error("Error:", error);
+      })
+  };
+  
+getMovies()
