@@ -30,7 +30,7 @@ foreach ($data as $item) {
     $story=$item['story'];
     
     
-    $query = $connection->prepare("INSERT INTO movies (movie_image,movie_name,movie_duration,movie_categories,releaseDate,actors,story) VALUES (?,?,?,?,?,?,?)");
+    $query = $connection->prepare("INSERT INTO movies (image,title,duration,categories,releaseDate,actors,story) VALUES (?,?,?,?,?,?,?)");
     $query->bind_param('sssssss',$title,$img,$duration,$categories,$release,$actors,$story);
     
     $query->execute();
