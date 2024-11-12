@@ -9,5 +9,5 @@ document.addEventListener("click",async (event)=>{
         "http://localhost:8080/AI-Movie-Recommender/server/api/selectMoviesById.php",
         data
     );    
-
+    window.location.href = "./pages/movieDetails.html";
 })
