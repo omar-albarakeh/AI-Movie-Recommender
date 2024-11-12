@@ -4,6 +4,10 @@ const userInput = document.getElementById("input-text");
 const sendBtn = document.getElementById("send-btn");
 const historyPanel = document.getElementById("saved-responses");
 
+let messages = [
+    { role: "system", content: "You are a friendly and helpful assistant who remembers user preferences." }
+];
+
 function displayMessage(role, text) {
     const messageElement = document.createElement("div");
     messageElement.classList.add("message", role);
@@ -16,6 +20,19 @@ function displayMessage(role, text) {
     chatContainer.appendChild(messageElement);
     chatContainer.scrollTop = chatContainer.scrollHeight;
 }
+
+function toggleButtonState() {
+    sendBtn.disabled = !userInput.value.trim();
+}
+
+function addMessageToHistory(sender, messageText) {
+    const historyEntry = document.createElement('div');
+    historyEntry.classList.add('history-entry');
+    historyEntry.innerHTML = `<strong>${sender}:</strong> ${messageText}`;
+    historyPanel.appendChild(historyEntry);
+    historyPanel.scrollTop = historyPanel.scrollHeight;
+}
+
 async function sendMessage() {
     const inputText = userInput.value.trim();
     if (inputText === "") return;
@@ -54,6 +71,7 @@ setTimeout(() => {
     displayMessage("assistant", "Hi! How can I help you with movies today?");
 }, 1000);
 
+userInput.addEventListener('input', toggleButtonState);
 sendBtn.addEventListener('click', sendMessage);
 userInput.addEventListener("keypress", function(event) {
     if (event.key === "Enter" && !event.shiftKey) {
