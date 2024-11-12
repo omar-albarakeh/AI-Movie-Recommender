@@ -23,5 +23,5 @@ const moviesHTML  = (movies) =>{
             </div>
         `
     } )
-
 }
+
