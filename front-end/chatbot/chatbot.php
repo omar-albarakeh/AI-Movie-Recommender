@@ -41,4 +41,12 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, [
 curl_setopt($ch, CURLOPT_POST, true);
 curl_setopt($ch, CURLOPT_POSTFIELDS, $postData);
 
+$response = curl_exec($ch);
+if ($response === false) {
+    echo json_encode(["error" => "Request failed: " . curl_error($ch)]);
+    curl_close($ch);
+    exit;
+}
+curl_close($ch);
+echo $response;
 ?>
