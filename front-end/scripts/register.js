@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('registerForm').addEventListener('submit', function (e) {
         e.preventDefault();
 
-        const username = document.getElementById('registerUser').value;
+        const username = document.getElementById('registerUser ').value;
         const password = document.getElementById('registerPassword').value;
 
         const data = {
