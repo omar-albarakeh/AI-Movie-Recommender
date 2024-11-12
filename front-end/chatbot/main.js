@@ -49,3 +49,7 @@ async function sendMessage() {
         displayMessage("assistant", "An error occurred. Please try again.");
     }
 }
+
+setTimeout(() => {
+    displayMessage("assistant", "Hi! How can I help you with movies today?");
+}, 1000);
