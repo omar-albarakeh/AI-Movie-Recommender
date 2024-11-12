@@ -2,7 +2,6 @@
 const chatContainer = document.getElementById("chat-container");
 const userInput = document.getElementById("input-text");
 const sendBtn = document.getElementById("send-btn");
-const historyPanel = document.getElementById("saved-responses");
 
 let messages = [
     { role: "system", content: "You are a friendly and helpful assistant who remembers user preferences." }
@@ -25,13 +24,6 @@ function toggleButtonState() {
     sendBtn.disabled = !userInput.value.trim();
 }
 
-function addMessageToHistory(sender, messageText) {
-    const historyEntry = document.createElement('div');
-    historyEntry.classList.add('history-entry');
-    historyEntry.innerHTML = `<strong>${sender}:</strong> ${messageText}`;
-    historyPanel.appendChild(historyEntry);
-    historyPanel.scrollTop = historyPanel.scrollHeight;
-}
 
 async function sendMessage() {
     const inputText = userInput.value.trim();
@@ -59,8 +51,6 @@ async function sendMessage() {
         const assistantMessage = result.choices[0].message.content;
         displayMessage("assistant", assistantMessage);
         messages.push({ role: "assistant", content: assistantMessage });
-        addMessageToHistory("Assistant", assistantMessage);
-
     } catch (error) {
         console.error("Error:", error);
         displayMessage("assistant", "An error occurred. Please try again.");
