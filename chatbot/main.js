@@ -1,4 +1,3 @@
-
 const chatContainer = document.getElementById("chat-container");
 const userInput = document.getElementById("input-text");
 const sendBtn = document.getElementById("send-btn");
@@ -8,22 +7,29 @@ let messages = [
 ];
 
 function displayMessage(role, text) {
+
     const messageElement = document.createElement("div");
-    messageElement.classList.add("message", role);
+    
+    if (role === "user") {
+        messageElement.classList.add("user-message");
+    } else {
+        messageElement.classList.add("bot-message");
+    }
 
     const messageBubble = document.createElement("div");
     messageBubble.classList.add("message-bubble");
     messageBubble.textContent = text;
 
     messageElement.appendChild(messageBubble);
+    
     chatContainer.appendChild(messageElement);
+
     chatContainer.scrollTop = chatContainer.scrollHeight;
 }
 
 function toggleButtonState() {
     sendBtn.disabled = !userInput.value.trim();
 }
-
 
 async function sendMessage() {
     const inputText = userInput.value.trim();
@@ -49,16 +55,16 @@ async function sendMessage() {
         if (result.error) throw new Error(result.error);
 
         const assistantMessage = result.choices[0].message.content;
-        displayMessage("assistant", assistantMessage);
+        displayMessage("bot", assistantMessage);
         messages.push({ role: "assistant", content: assistantMessage });
     } catch (error) {
         console.error("Error:", error);
-        displayMessage("assistant", "An error occurred. Please try again.");
+        displayMessage("bot", "An error occurred. Please try again.");
     }
 }
 
 setTimeout(() => {
-    displayMessage("assistant", "Hi! How can I help you with movies today?");
+    displayMessage("bot", "Hi! How can I help you with movies today?");
 }, 1000);
 
 userInput.addEventListener('input', toggleButtonState);
