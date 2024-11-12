@@ -30,3 +30,16 @@ const detailsHTML  = (movies) =>{
     } 
 
 
+const getMovies = async (id) => {
+    const data = new FormData()
+    data.append("id", id)
+    const response = await axios.post(
+        "http://localhost:8080/AI-Movie-Recommender/server/api/selectMoviesByUserId.php",
+        data
+    ); 
+
+    let movies = response.data
+    detailsHTML(movies)
+
+  };
+  
