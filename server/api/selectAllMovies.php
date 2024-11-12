@@ -4,7 +4,7 @@ include("db-connection.php");
 
 
 
-$query = $connection->prepare("SELECT id,title FROM movies");
+$query = $connection->prepare("SELECT id,image FROM movies");
 $query->execute();
 
 $result = $query->get_result();
