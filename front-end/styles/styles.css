@@ -27,6 +27,7 @@
     gap: 30px;
     flex-wrap: wrap;
     overflow-x: scroll;
+    overflow-y: hidden;
 }
 
 ::-webkit-scrollbar {
