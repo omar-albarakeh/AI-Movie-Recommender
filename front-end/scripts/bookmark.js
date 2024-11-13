@@ -5,7 +5,7 @@ const toggleBookmark = async (movies_id,users_id=1) => {
     data.append("movies_id", movies_id)
 
     const response = await axios.post(
-        "http://localhost:8080/AI-Movie-Recommender/server/api/isExistingBookmarks.php",
+        "http://localhost:8080/AI-Movie-Recommender/server/api/isBookmarked.php",
         data
     ); 
        
@@ -20,3 +20,6 @@ const toggleBookmark = async (movies_id,users_id=1) => {
     );     
     
   };
+
+
+
