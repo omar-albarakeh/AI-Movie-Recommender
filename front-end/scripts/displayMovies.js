@@ -2,7 +2,7 @@ const moviesHTML  = (movies) =>{
     let movies_cards=document.getElementById("movies-cards")
     
     movies_cards.innerHTML=""
-    movies.forEach(movie =>{
+    movies.forEach(async (movie) =>{
         movies_cards.innerHTML+=
         `   <div class="flex column movie-card" id="${movie.id}">
                 <div class="card-img">
@@ -17,11 +17,11 @@ const moviesHTML  = (movies) =>{
                         <img class="star" src="./assets/unfilledStar.png" alt="">
                     </div>
                     <div class="card-bookmark">
-                        <img class="bookmark-icon" src="./assets/unfilledBookmark.png" alt="">
+                        <img class="bookmark-icon" id="" src="./assets/unfilledBookmark.png" alt="">
                     </div>
                 </div>
             </div>
-        `
+            `
     } )
 }
 

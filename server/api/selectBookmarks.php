@@ -2,18 +2,21 @@
 
 include("connection.php");
 
-$user_id = $_POST["user_id"];
+$users_id = $_POST["users_id"];
 
-$query = $connection->prepare("SELECT * FROM bookmarks where user_id = ?");
-$query->bind_param('i',$user_id);
+$query = $connection->prepare("SELECT * FROM bookmarks where users_id = ?");
+$query->bind_param('i',$users_id);
 $query->execute();
 
 $result = $query->get_result();
 
 if ($result->num_rows > 0) {
-    $movie_data = $result->fetch_assoc();
-    echo json_encode($movie_data);
-}
- else {
+    $bookmarks_array = [];
+    while ($resultObject = $result->fetch_assoc()) {
+        $bookmarks_array[] = $resultObject;
+    }
+
+    echo json_encode($bookmarks_array);
+} else {
     echo json_encode([]);
 }
