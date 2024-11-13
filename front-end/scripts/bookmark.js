@@ -12,6 +12,6 @@ const addBookmark = async (movies_id,users_id=1) => {
     !response.data && await axios.post(
         "http://localhost:8080/AI-Movie-Recommender/server/api/insertBookmarks.php",
         data
-    ); 
+    );
     
   };
