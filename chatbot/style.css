@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Georgia, serif;
+    background-color: rgb(172, 116, 116);
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    max-width: 800px;
+    background-color: #080000;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(81, 21, 21, 0.15);
+    overflow: hidden;
+    height: 100vh;
+}
+
+.history-panel {
+    width: 30%;
+    padding: 15px;
+    background-color: #e9e4d4;
+    border-right: 1px solid #d3cbb8;
+    overflow-y: auto;
+}
+
+.history-panel h3 {
+    font-size: 1.2em;
+    color: #4a4a4a;
+    margin-bottom: 15px;
+}
+
+.chat-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.text-center {
+    text-align: center;
+    font-size: 1.6em;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.media-body {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.image-media {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.status h5 {
+    font-size: 1.2em;
+    color: #ffffff;
+}
+
+.status span {
+    font-size: 0.9em;
+    color: green;
+}
+
+.chat-container {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    border-top: 1px solid #d3cbb8;
+    padding-top: 10px;
+}
+
+.bot-message, .user-message {
+    display: flex;
+    align-items: center;
+    max-width: 70%;
+    font-size: 1em;
+    padding: 12px 15px;
+    border-radius: 10px;
+}
+
+.bot-message {
+    background-color: #b96767;
+    color: #080202;
+    align-self: flex-start;
+}
+
+.user-message {
+    background-color: #078e9a;
+    color: #d6caca;
+    align-self: flex-end;
+}
+
+.input-group {
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #d3cbb8;
+}
+
+.input-text {
+    flex: 1;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #d3cbb8;
+    font-size: 1em;
+    background-color: #fbfbf7;
+    transition: border-color 0.3s ease;
+}
+
+.input-text:focus {
+    border-color: #b5a482;
+    outline: none;
+}
+
+.btn-primary {
+    padding: 10px 20px;
+    background-color: #9b0000;
+    border: none;
+    border-radius: 6px;
+    color: #ffffff;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-primary:hover {
+    background-color: #9e8a6c;
+}
+
+.btn-primary:disabled {
+    background-color: #9a5353;
+    cursor: not-allowed;
+}
+
+.saved-responses {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #f3b408;
+    border-radius: 6px;
+}
+
+.chat-container, .saved-responses {
+    overflow-y: auto;
+    max-height: 300px;
+}
+
+.bot-message, .user-message {
+    opacity: 0;
+    animation: fadeIn 0.5s ease forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
