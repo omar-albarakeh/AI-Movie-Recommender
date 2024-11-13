@@ -13,8 +13,8 @@ document.addEventListener("click",async (event)=>{
     if (!event.target.classList.contains("bookmark-icon"))
         return
     let movieId = event.target.parentElement.parentElement.parentElement.getAttribute("id");
-    console.log(event.target.tagName)
-    event.target.src='./assets/filledBookmark.png'
-    addBookmark(movieId)
+    
+    event.target.src = event.target.src=='./assets/filledBookmark.png' ? './assets/unfilledBookmark.png' : './assets/filledBookmark.png';
+    toggleBookmark(movieId)
     
 })
