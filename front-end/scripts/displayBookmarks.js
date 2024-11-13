@@ -18,7 +18,7 @@ const selectBookmarks = async (users_id=1) => {
     const data = new FormData()
     data.append("users_id", users_id)
     const response = await axios.post(
-        "http://localhost:8080/AI-Movie-Recommender/server/api/selectImageByBookmarked.php",
+        "http://localhost/AI-Movie-Recommender/server/api/selectImageByBookmarked.php",
         data
     );   
     const bookmarks = response.data
