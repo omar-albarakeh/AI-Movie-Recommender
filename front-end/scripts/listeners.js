@@ -26,3 +26,12 @@ document.addEventListener("click",async (event)=>{
     
 })
 
+// Clicks
+document.addEventListener("click",async (event)=>{
+    if (!event.target.classList.contains("movie_image"))
+        return
+    let movieId = event.target.parentElement.parentElement.getAttribute("id");
+    
+    addClicks(movieId)
+    
+})
