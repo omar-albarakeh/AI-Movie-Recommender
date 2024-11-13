@@ -47,4 +47,3 @@ const getBookmarked = async (users_id=1) =>{
 getBookmarked()
 
 
-
