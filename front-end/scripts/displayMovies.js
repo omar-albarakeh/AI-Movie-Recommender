@@ -10,11 +10,11 @@ const moviesHTML  = (movies) =>{
                 </div>
                 <div class="flex row card-footer primary-bg">
                     <div class="flex row card-stars">
-                        <img class="star" src="./assets/unfilledStar.png" alt="">
-                        <img class="star" src="./assets/unfilledStar.png" alt="">
-                        <img class="star" src="./assets/unfilledStar.png" alt="">
-                        <img class="star" src="./assets/unfilledStar.png" alt="">
-                        <img class="star" src="./assets/unfilledStar.png" alt="">
+                        <img class="star star-1" src="./assets/unfilledStar.png" alt="">
+                        <img class="star star-2" src="./assets/unfilledStar.png" alt="">
+                        <img class="star star-3" src="./assets/unfilledStar.png" alt="">
+                        <img class="star star-4" src="./assets/unfilledStar.png" alt="">
+                        <img class="star star-5" src="./assets/unfilledStar.png" alt="">
                     </div>
                     <div class="card-bookmark">
                         <img class="bookmark-icon" id="" src="./assets/unfilledBookmark.png" alt="">
