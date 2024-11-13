@@ -16,15 +16,17 @@
 }
 
 .filled-btn {
-    height: 45px;
+    height: 50px;
     padding: 0 25px;
     border-radius: 100px;
     font-weight: bold;
+    font-size: 20px;
     transition: all 0.3s;
   }
   
 .filled-btn:hover, .action-btn:hover {
 opacity: 0.7;
+cursor: pointer;
 }
 
 .action-btn {
