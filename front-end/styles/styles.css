@@ -167,24 +167,3 @@
 }
 
 /* ============================================== */
-.main-details{
-    height: auto;
-    width: 100%;
-}
-.movieDetails{
-    width: 900px;
-    height: auto;
-    min-height: 100vh;
-    margin: 50px;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-}
-.detail-subtitle{
-    gap: 15px;
-}
-.detail-story{
-    word-spacing: 1px;
-    font-size: 18px;
-}
