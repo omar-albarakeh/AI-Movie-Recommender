@@ -16,3 +16,12 @@ document.addEventListener("click",async (event)=>{
     toggleBookmark(movieId)
     event.target.src = event.target.src.includes('unfilledBookmark.png') ? './assets/filledBookmark.png' : './assets/unfilledBookmark.png';    
 })
+
+document.addEventListener("click",async (event)=>{
+    if (!event.target.classList.contains("view-bookmark"))
+        return
+    let users_id = 1
+    
+    window.location.href = `./pages/bookMarked.html?users_id=${users_id}`;
+    
+})
