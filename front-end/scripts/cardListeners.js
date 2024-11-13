@@ -14,7 +14,6 @@ document.addEventListener("click",async (event)=>{
         return
     let movieId = event.target.parentElement.parentElement.parentElement.getAttribute("id");
     
-    event.target.src = event.target.src=='./assets/filledBookmark.png' ? './assets/unfilledBookmark.png' : './assets/filledBookmark.png';
     toggleBookmark(movieId)
-    
+    event.target.src = event.target.src.includes('unfilledBookmark.png') ? './assets/filledBookmark.png' : './assets/unfilledBookmark.png';    
 })
