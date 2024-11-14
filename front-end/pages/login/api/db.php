@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$dbname = "user_auth1";
+$dbname = "ai_enhanced_movie_recommenderdb";
 $username = "root";
 $password = "";
 

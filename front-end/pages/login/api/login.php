@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             $_SESSION['is_admin'] = in_array($user["id"], [1, 2, 3, 4]);
             $_SESSION['user_id'] = $user["id"];
             
-            $redirectUrl = $_SESSION['is_admin'] ? "api/admin_panel.php" : "front-end/index.html";
+            $redirectUrl = $_SESSION['is_admin'] ? "http://localhost/AI-Movie-Recommender/front-end/pages/login/api/admin_panel.php" : "http://localhost/AI-Movie-Recommender/front-end/index.html";
             $redirectUrl .= "?user_id=" . urlencode($user["id"]);
             
             echo json_encode(["success" => true, "redirect" => $redirectUrl]);
