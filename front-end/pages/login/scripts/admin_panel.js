@@ -2,7 +2,7 @@ async function populateUserTable() {
     const userTable = document.getElementById('userTable');
 
     try {
-        const response = await fetch('http://localhost/AI-Movie-Recommender/front-end/pages/login/api/admin_data.php'); 
+        const response = await fetch('http://localhost:8080/AI-Movie-Recommender/front-end/pages/login/api/admin_data.php'); 
         if (!response.ok) {
             throw new Error('Failed to load user data');
         }

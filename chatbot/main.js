@@ -46,7 +46,7 @@ async function sendMessage() {
     messages.push({ role: "user", content: inputText });
 
     try {
-        const response = await fetch("http://localhost/chatbot/chatbot.php", {
+        const response = await fetch("http://localhost:8080/chatbot/chatbot.php", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ messages }),

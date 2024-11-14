@@ -27,7 +27,7 @@ const moviesHTML  = (movies) =>{
 
 const getMovies = () => {
   
-    axios.get("http://localhost/AI-Movie-Recommender/server/api/selectAllMovies.php")
+    axios.get("http://localhost:8080/AI-Movie-Recommender/server/api/selectAllMovies.php")
       .then((response) => {
         let movies = response.data
         moviesHTML(movies)

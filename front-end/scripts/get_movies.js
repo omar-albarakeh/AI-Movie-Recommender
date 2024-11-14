@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    fetch('http://localhost/AI-Movie-Recommender/server/api/get_movies.php')
+    fetch('http://localhost:8080/AI-Movie-Recommender/server/api/get_movies.php')
         .then(response => response.json())
         .then(data => {
             if (data.error || data.message) {
