@@ -4,7 +4,7 @@ include("connection.php");
 
 $users_id=$_POST["users_id"];
 
-$query = $connection->prepare("SELECT m.image FROM movies m 
+$query = $connection->prepare("SELECT m.id,m.image FROM movies m 
                                     inner JOIN 
                                         ( SELECT m2.categories FROM movies m2 
                                         INNER JOIN clicks c 
