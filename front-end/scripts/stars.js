@@ -1,4 +1,4 @@
-const postStars = async (users_id=1,movies_id,rating) =>{
+const postStars = async (movies_id,rating,users_id = 1) =>{
 
     const data = new FormData()
     data.append("users_id", users_id)

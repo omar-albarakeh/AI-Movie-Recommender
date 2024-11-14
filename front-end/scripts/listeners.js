@@ -36,3 +36,16 @@ document.addEventListener("click",async (event)=>{
     
 })
 
+// stars
+
+document.addEventListener("click", (event) => {
+    if(!event.target.classList.contains("star"))
+        return
+    const movieId = event.target.parentElement.parentElement.parentElement.getAttribute("id");
+
+    
+    const rating = event.target.getAttribute("rank");
+    console.log(movieId,rating)
+    postStars(movieId,rating)
+});
+
