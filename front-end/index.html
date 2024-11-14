@@ -29,39 +29,20 @@
         <div class="profile-picture"><img src="" alt="Profile Picture"></div>
     </header>
 
-     <div class="hero-section">
+      <div class="hero-section">
         <div class="container">
-            <div class="movie-info">
-                <h1>The Fall Guy</h1>
-                <div class="movie-details">
-                    <span>Action-comedy</span>
-                    <span>148 min</span>
-                    <span>13+</span>
-                    <span>2024</span>
-                </div>
-                <p class="description">
-                    A high-octane action-comedy reboot. Ryan Gosling stars as a fearless stuntman
-                    who takes on a real-life mission, blending death-defying stunts with hilarious humor.
-                </p>
-                <div class="buttons">
-                    <button>Add Bookmark</button>
-                    <button>Watch Trailer</button>
-                </div>
+            <div id="movie-info" class="movie-info">
             </div>
         </div>
     </div>
     <div class="black">
-        <div class="movie-titles">
-            <a href="#" class="title">The Fall Guy</a>
-            <a href="#" class="title">The Substance</a>
-            <a href="#" class="title">Inside Out 2</a>
-            <a href="#" class="title">Furiosa: A Mad Max Saga</a>
-            <a href="#" class="title">Dune: Part Two</a>
+        <div id="movie-titles" class="movie-titles">
         </div>
+        <div id="movie-info" class="movie-info"></div>
     </div>
-</section>
 
-    <section class="two black-bg movies-container">
+
+   <section class="two black-bg movies-container">
         <div class="flex column movies-header">
             <h1 class="movies-title white-txt">Pick Your Next Adventure</h1>
             <p class="movies-subtitle grey-txt">Dive into our collection and find your favorite...</p>
@@ -69,14 +50,14 @@
         <div class="view-bookmark"><button id="view-bookmark" class="filled-btn primary-bg white-txt view-bookmark">View Bookmarks</button></div>
         <div class="flex column movies-cards" id="movies-cards">
         </div>
-    </section>
+    </section>
 
       <div class="movie-recommender">
         <div class="content">
             <h2>Discover Your Next Favorite Film</h2>
             <p>Tired of scrolling through movie lists?<br>
                Our AI movie recommender knows your taste and suggests films you'll love.</p>
-            <button>Let's Talk</button>
+            <button><a href="chatbot/index.html">Let's Talk</a></button>
         </div>
         <img src="assets/chatbot.jpeg" alt="AI movie recommender illustration">
     </div>
@@ -172,5 +153,6 @@
     <script src="./scripts/bookmark.js"></script>
     <script src="./scripts/stars.js"></script>
     <script src="./scripts/recommendations.js"></script>
+
 </body>
 </html>
