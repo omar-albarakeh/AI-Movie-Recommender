@@ -422,6 +422,7 @@ body {
     word-spacing: 1px;
     font-size: 18px;
 }
+
 /* ============================================== */
 .footer-container {
   display: flex;
@@ -578,4 +579,3 @@ body {
     align-items: center;
     margin: 20px 0;
   }
-}
