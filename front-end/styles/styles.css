@@ -579,21 +579,3 @@ body {
     margin: 20px 0;
   }
 }
-/* ============================================== */
-.bookmarks-cards{
-    width: 100%;
-    height: auto;
-    min-height: 100vh;
-    flex-wrap: wrap;
-    padding: 50px;
-    gap: 40pX;
-    justify-content: center;
-}
-
-.bookmarks-main{
-    font-size: 20px;
-    gap: 24px;
-    text-align: center;
-    padding: 50px;
-
-}
