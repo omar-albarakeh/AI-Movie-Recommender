@@ -43,7 +43,20 @@ document.addEventListener("click", (event) => {
         return
     const movieId = event.target.parentElement.parentElement.parentElement.getAttribute("id");
 
+    let previousStar = event.target.previousElementSibling;
+    event.target.src = "./assets/filledStar.png"
+    while (previousStar) {
+        previousStar.src = "./assets/filledStar.png"
+        previousStar = previousStar.previousElementSibling;
+    }
     
+
+    let nextStar = event.target.nextElementSibling;
+    while (nextStar) {
+        nextStar.src = "./assets/unfilledStar.png";
+        nextStar = nextStar.nextElementSibling;
+    }
+
     const rating = event.target.getAttribute("rank");
     console.log(movieId,rating)
     postStars(movieId,rating)
