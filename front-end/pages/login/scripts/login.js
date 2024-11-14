@@ -5,7 +5,7 @@ document.getElementById("loginForm").addEventListener("submit", async function(e
     const password = document.getElementById("password").value;
 
     try {
-        const response = await fetch("http://localhost//AI-Movie-Recommender/front-end/pages/login/api/login.php", {
+        const response = await fetch("api/login.php", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"

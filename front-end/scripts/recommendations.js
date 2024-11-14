@@ -31,7 +31,7 @@ const getRecom = async (users_id=1) => {
     const data = new FormData()
     data.append("users_id", users_id)
     await axios.post(
-        "http://localhost:8080/AI-Movie-Recommender/server/api/selectRecommendations.php",
+        "http://localhost/AI-Movie-Recommender/server/api/selectRecommendations.php",
         data
     )
     .then(res=>{
