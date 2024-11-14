@@ -2,7 +2,7 @@
 document.addEventListener("click",async (event)=>{
     if (!event.target.classList.contains("movie_image"))
         return
-    let movieId = event.target.parentElement.parentElement.getAttribute("id");
+    let movieId = event.target.parentElement.parentElement.getAttribute("movieId");
     
     window.location.href = `./pages/movieDetails.html?movie_id=${movieId}`;
     
@@ -12,7 +12,7 @@ document.addEventListener("click",async (event)=>{
 document.addEventListener("click",async (event)=>{
     if (!event.target.classList.contains("bookmark-icon"))
         return
-    let movieId = event.target.parentElement.parentElement.parentElement.getAttribute("id");
+    let movieId = event.target.parentElement.parentElement.parentElement.getAttribute("movieId");
     toggleBookmark(movieId)
     event.target.src = event.target.src.includes('unfilledBookmark.png') ? './assets/filledBookmark.png' : './assets/unfilledBookmark.png';    
 })
@@ -30,7 +30,7 @@ document.addEventListener("click",async (event)=>{
 document.addEventListener("click",async (event)=>{
     if (!event.target.classList.contains("movie_image"))
         return
-    let movieId = event.target.parentElement.parentElement.getAttribute("id");
+    let movieId = event.target.parentElement.parentElement.getAttribute("movieId");
     
     addClicks(movieId)
     
@@ -41,7 +41,7 @@ document.addEventListener("click",async (event)=>{
 document.addEventListener("click", (event) => {
     if(!event.target.classList.contains("star"))
         return
-    const movieId = event.target.parentElement.parentElement.parentElement.getAttribute("id");
+    const movieId = event.target.parentElement.parentElement.parentElement.getAttribute("movieId");
 
     let previousStar = event.target.previousElementSibling;
     event.target.src = "./assets/filledStar.png"

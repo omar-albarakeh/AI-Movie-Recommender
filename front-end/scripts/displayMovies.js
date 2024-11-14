@@ -4,7 +4,7 @@ const moviesHTML  = (movies) =>{
     movies_cards.innerHTML=""
     movies.forEach(async (movie) =>{
         movies_cards.innerHTML+=
-        `   <div class="flex column movie-card" id="${movie.id}">
+        `   <div class="flex column movie-card" movieId="${movie.id}">
                 <div class="card-img">
                     <img class="movie_image" src='${movie.image}' alt="">
                 </div>

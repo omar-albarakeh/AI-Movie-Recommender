@@ -4,20 +4,20 @@ const recomHTML  = (movies) =>{
     movies_cards.innerHTML=""
     movies.forEach(async (movie) =>{
         movies_cards.innerHTML+=
-        `   <div class="flex column movie-card" id="recom-${movie.id}">
+        `   <div class="flex column movie-card" movieId="${movie.id}">
                     <div class="card-img">
-                        <img src="${movie.image}" alt="">
+                        <img class="movie_image" src="${movie.image}" alt="">
                     </div>
                     <div class="flex row card-footer primary-bg">
                         <div class="flex row card-stars">
-                            <img class="star" src="./assets/unfilledStar.png" alt="">
-                            <img class="star" src="./assets/unfilledStar.png" alt="">
-                            <img class="star" src="./assets/unfilledStar.png" alt="">
-                            <img class="star" src="./assets/unfilledStar.png" alt="">
-                            <img class="star" src="./assets/unfilledStar.png" alt="">
+                            <img class="star" rank="1" src="./assets/unfilledStar.png" alt="">
+                            <img class="star" rank="2" src="./assets/unfilledStar.png" alt="">
+                            <img class="star" rank="3" src="./assets/unfilledStar.png" alt="">
+                            <img class="star" rank="4" src="./assets/unfilledStar.png" alt="">
+                            <img class="star" rank="5" src="./assets/unfilledStar.png" alt="">
                         </div>
                         <div class="card-bookmark">
-                            <img src="./assets/unfilledBookmark.png" alt="">
+                            <img class="bookmark-icon" src="./assets/unfilledBookmark.png" alt="">
                         </div>
                     </div>
                 </div>

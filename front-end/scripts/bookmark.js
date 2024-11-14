@@ -37,7 +37,7 @@ const getBookmarked = async (users_id=1) =>{
     );    
     let bookmarks = response.data
     bookmarks.forEach(bookmark=>{
-        const card = document.getElementById(bookmark.movies_id)
+        const card = document.querySelector(`[movieId="${bookmark.movies_id}"]`);
         card.querySelector(".bookmark-icon").src = "./assets/filledBookmark.png"
 
     })
