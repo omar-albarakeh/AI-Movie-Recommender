@@ -26,21 +26,38 @@
         <a href="#">About</a>
         <a href="#">Contact</a>
     </nav>
-        <div class="profile-picture"><img src="" alt="Profile Picture"></div>
+        <div class="profile-picture"><img src="front-end/assets/about3.png" alt="Profile Picture"></div>
     </header>
 
-      <div class="hero-section">
-        <div class="container">
-            <div id="movie-info" class="movie-info">
+ <div class="hero-section">
+    <div class="container">
+        <div id="movie-info" class="movie-info">
+            <div class="movie-content">
+                <div class="text-content">
+                    <h1>${data.title}</h1>
+                    <div class="movie-details">
+                        <span>${data.categories}</span>
+                        <span>${data.duration} min</span>
+                        <span>13+</span>
+                        <span>${new Date(data.releaseDate).getFullYear()}</span>
+                    </div>
+                    <p class="description">${data.story}</p>
+                    <div class="buttons">
+                        <button>Add Bookmark</button>
+                        <button>Watch Trailer</button>
+                    </div>
+                </div>
+                <div class="image-content">
+                    <img src="${data.image}" alt="${data.title} image">
+                </div>
             </div>
         </div>
     </div>
-    <div class="black">
-        <div id="movie-titles" class="movie-titles">
-        </div>
-        <div id="movie-info" class="movie-info"></div>
-    </div>
+</div>
 
+<div class="random-movies-section">
+    <ul id="random-movie-titles" class="movie-list"></ul>
+</div>
 
    <section class="two black-bg movies-container">
         <div class="flex column movies-header">
@@ -57,7 +74,7 @@
             <h2>Discover Your Next Favorite Film</h2>
             <p>Tired of scrolling through movie lists?<br>
                Our AI movie recommender knows your taste and suggests films you'll love.</p>
-            <button><a href="chatbot/index.html">Let's Talk</a></button>
+            <a href="../chatbot/index.html" class="chat-button">Let's Talk</a>
         </div>
         <img src="assets/chatbot.jpeg" alt="AI movie recommender illustration">
     </div>
@@ -147,12 +164,16 @@
             </div>
         </div>
     </footer>
-    <script src="./scripts/displayMovies.js"></script>
+   
     <script src="./scripts/listeners.js"></script>
+    <script src="./scripts/displayMovies.js"></script>
     <script src="./scripts/clicks.js"></script>
     <script src="./scripts/bookmark.js"></script>
     <script src="./scripts/stars.js"></script>
     <script src="./scripts/recommendations.js"></script>
+    <script src="./scripts/get_movies.js"></script>
+    <script src="./scripts/random-movie.js"></script>
+
 
 </body>
 </html>

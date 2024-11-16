@@ -1,4 +1,4 @@
-const postStars = async (movies_id,rating,users_id = 1) =>{
+const postStars = async (movies_id,rating) =>{
 
     const data = new FormData()
     data.append("users_id", users_id)
@@ -6,29 +6,36 @@ const postStars = async (movies_id,rating,users_id = 1) =>{
     data.append("rating", rating)
     
     await axios.post(
-        "http://127.0.0.1/AI-Movie-Recommender/server/api/insertUpdateRatings.php",
+        "http://localhost/AI-Movie-Recommender/server/api/insertUpdateRatings.php",
         data
     )
 }
 
-const getStars = async (users_id=1) =>{
+const getStars = async () =>{
     
     const data = new FormData()
     data.append("users_id", users_id)
     
-    const response = await axios.post(
+    await axios.post(
     "http://localhost/AI-Movie-Recommender/server/api/selectRatingsByUserId.php",
     data
-    );    
-    let ratings = response.data
-    await ratings.forEach(rating=>{
-        const card = document.querySelector(`[movieId="${rating.movies_id}"]`);
-        const stars = card.querySelectorAll(".star")
-        for(let i=0;i<rating.rating;i++)
-            stars[i].src = "./assets/filledStar.png"
+    )
+    .then((response)=>{
 
-    })
+        let ratings = response.data
+        ratings.forEach(rating=>{
+            const card = document.querySelectorAll(`[movieId="${rating.movies_id}"]`);
+            for(let i=0;i<card.length;i++){
+                const stars = card[i].querySelectorAll(".star")
+                for(let i =0 ; i<rating.rating;i++){
+                    stars[i].src = "./assets/filledStar.png"
+                }
+            }
+
+    
+        })
+    }) 
 
 }
-// bookmark on load
+// stars on load
 getStars()

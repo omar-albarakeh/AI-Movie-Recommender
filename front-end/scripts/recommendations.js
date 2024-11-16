@@ -26,7 +26,7 @@ const recomHTML  = (movies) =>{
     } )
 }
 
-const getRecom = async (users_id=1) => {
+const getRecom = async () => {
   
     const data = new FormData()
     data.append("users_id", users_id)

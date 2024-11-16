@@ -1,4 +1,5 @@
-// image listener
+const urlParams = new URLSearchParams(window.location.search);
+const users_id = urlParams.get('user_id');
 document.addEventListener("click",async (event)=>{
     if (!event.target.classList.contains("movie_image"))
         return
@@ -19,10 +20,8 @@ document.addEventListener("click",async (event)=>{
 // bookmark list
 document.addEventListener("click",async (event)=>{
     if (!event.target.classList.contains("view-bookmark"))
-        return
-    let users_id = 1
-    
-    window.location.href = `./pages/bookMarked.html?users_id=${users_id}`;
+        return    
+    window.location.href = `./pages/bookMarked.html?user_id=${users_id}`;
     
 })
 

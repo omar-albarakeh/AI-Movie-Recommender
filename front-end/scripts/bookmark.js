@@ -1,4 +1,4 @@
-const toggleBookmark = async (movies_id,users_id=1) => {
+const toggleBookmark = async (movies_id) => {
   
     const data = new FormData()
     data.append("users_id", users_id)
@@ -26,24 +26,28 @@ const toggleBookmark = async (movies_id,users_id=1) => {
     
   };
 
-const getBookmarked = async (users_id=1) =>{
+const getBookmarked = async (users_id) =>{
     
     const data = new FormData()
     data.append("users_id", users_id)
     
-    const response = await axios.post(
+    await axios.post(
     "http://localhost/AI-Movie-Recommender/server/api/selectBookmarks.php",
     data
-    );    
-    let bookmarks = response.data
-    bookmarks.forEach(bookmark=>{
-        const card = document.querySelector(`[movieId="${bookmark.movies_id}"]`);
-        card.querySelector(".bookmark-icon").src = "./assets/filledBookmark.png"
+    )
+    .then((response)=>{
 
-    })
+        let bookmarks = response.data
+        bookmarks.forEach(bookmark=>{
+            const card = document.querySelectorAll(`[movieId="${bookmark.movies_id}"]`);
+            for(let i=0;i<card.length;i++){
+
+                card[i].querySelector(".bookmark-icon").src = "./assets/filledBookmark.png"
+            }
+    
+        })
+    })    
 
 }
-// bookmark on load
-getBookmarked()
 
-
+getBookmarked(users_id)

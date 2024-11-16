@@ -1,3 +1,5 @@
+const urlParams = new URLSearchParams(window.location.search);
+const users_id = urlParams.get('user_id');
 const bookmarksHTML  = (bookmarks) =>{
     let bookmarks_cards=document.getElementById("bookmarks-card")
     
@@ -13,7 +15,7 @@ const bookmarksHTML  = (bookmarks) =>{
     } )
 }
 
-const selectBookmarks = async (users_id=1) => {
+const selectBookmarks = async (users_id) => {
   
     const data = new FormData()
     data.append("users_id", users_id)
@@ -24,7 +26,7 @@ const selectBookmarks = async (users_id=1) => {
     const bookmarks = response.data
     bookmarksHTML(bookmarks)
   };
+
+
   
-selectBookmarks()
-
-
+selectBookmarks(users_id)

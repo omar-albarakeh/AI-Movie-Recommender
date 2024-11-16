@@ -2,16 +2,15 @@ document.addEventListener("DOMContentLoaded", function() {
     fetch('http://localhost/AI-Movie-Recommender/server/api/get_movies.php')
         .then(response => response.json())
         .then(data => {
-            if (data.error || data.message) {
-                console.error(data.error || data.message);
+            if (data.message) {
+                console.error(data.message);
                 return;
             }
 
             const movieInfoDiv = document.getElementById('movie-info');
             movieInfoDiv.innerHTML = `
-                <div class="movie-content">
-                    <img src="${data.image}" alt="${data.title} Poster" class="movie-poster">
-                    <div class="movie-text">
+                <div style="display: flex; justify-contant:space-between ">
+                    <div>
                         <h1>${data.title}</h1>
                         <div class="movie-details">
                             <span>${data.categories}</span>
@@ -25,6 +24,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             <button>Watch Trailer</button>
                         </div>
                     </div>
+                    <img src="${data.image}" alt="${data.title} image" style="width:100%; height: auto; margin-left: 610px;">
                 </div>
             `;
         })

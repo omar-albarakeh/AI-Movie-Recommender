@@ -6,16 +6,15 @@ header("Content-Type: application/json");
 
 include 'connection.php';
 
-$sql = "SELECT title, story, duration, categories, releaseDate, image 
-        FROM movies 
-        WHERE CHAR_LENGTH(title) < 30 AND CHAR_LENGTH(story) < 350 
-        ORDER BY RAND() 
-        LIMIT 1";
+$sql = "SELECT title FROM movies ORDER BY RAND() LIMIT 5";
 $result = $connection->query($sql);
 
+$movies = [];
 if ($result->num_rows > 0) {
-    $movie = $result->fetch_assoc();
-    echo json_encode($movie);
+    while ($row = $result->fetch_assoc()) {
+        $movies[] = $row['title'];
+    }
+    echo json_encode($movies);
 } else {
     echo json_encode(["message" => "No movies found"]);
 }

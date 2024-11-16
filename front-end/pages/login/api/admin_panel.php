@@ -15,11 +15,17 @@ $userData = $pdo->query("SELECT id, username, banned FROM users WHERE id NOT IN 
 <head>
     <meta charset="UTF-8">
     <title>Admin Panel</title>
-    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="../styles/style.css"><style>
+        body{
+            display:flex;
+            flex-direction:column;
+        }
+    </style>
 </head>
 <body>
     <h1>Admin Panel</h1>
     <h2>User Insights</h2>
+    <button onclick="window.location.href='http://localhost/AI-Movie-Recommender/front-end/pages/login/index.html'">Go to login</button>
     <table>
         <tr>
             <th>Username</th>
