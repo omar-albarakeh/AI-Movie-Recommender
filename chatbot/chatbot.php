@@ -19,15 +19,6 @@ if (!$data || !isset($data["messages"])) {
     exit;
 }
 
-
-$requestPayload = file_get_contents("php://input");
-$data = json_decode($requestPayload, true);
-
-if (!isset($data["messages"]) || !is_array($data["messages"])) {
-    echo json_encode(["error" => "Invalid request. 'messages' array is required."]);
-    exit;
-}
-
 $postData = json_encode([
     "model" => "gpt-3.5-turbo",
     "messages" => $data["messages"],

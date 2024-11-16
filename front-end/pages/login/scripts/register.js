@@ -24,7 +24,7 @@ document.getElementById("registerForm").addEventListener("submit", async functio
 
         const data = await response.json();
         if (data.success) {
-            window.location.href = "http://localhost/AI-Movie-Recommender/";
+            window.location.href = "index.html";
         } else {
             alert("Error: " + data.error);
         }

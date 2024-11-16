@@ -12,7 +12,7 @@ $query = $connection->prepare("SELECT DISTINCT m.id,m.image FROM movies m
                                         WHERE c.users_id = ? 
                                         GROUP BY m2.categories 
                                         ORDER BY COUNT(c.movies_id) DESC 
-                                        LIMIT 1 ) top_category 
+                                        LIMIT 2 ) top_category 
                                     ON m.categories = top_category.categories 
                                     WHERE m.id NOT IN 
                                         ( SELECT movies_id FROM bookmarks WHERE users_id = ? )
@@ -22,6 +22,8 @@ $query->execute();
 
 $result = $query->get_result();
 
+
+
 if ($result->num_rows > 0) {
     $movies_array = [];
     while ($resultObject = $result->fetch_assoc()) {
@@ -30,5 +32,22 @@ if ($result->num_rows > 0) {
 
     echo json_encode($movies_array);
 } else {
-    echo json_encode([]);
+    
+    $query2 = $connection->prepare("SELECT id,image FROM movies order by id desc limit 7");
+    $query2->execute();
+
+    $result2 = $query2->get_result();
+
+
+
+    if ($result2->num_rows > 0) {
+        $movies_array2 = [];
+        while ($resultObject2 = $result2->fetch_assoc()) {
+            $movies_array2[] = $resultObject2;
+        }
+
+        echo json_encode($movies_array2);
+    }
+
+
 }

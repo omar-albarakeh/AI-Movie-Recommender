@@ -1,5 +1,4 @@
 <?php
-
 include("connection.php");
 
 $movies_id = $_POST["movies_id"] ?? null;
